@@ -1,0 +1,237 @@
+{
+  "generated_utc": "2026-09-26T04:06:09.204313+00:00",
+  "reference_gate_passed": false,
+  "gate_file_present": true,
+  "figures": [
+    {
+      "id": "fig01",
+      "title": "Canonical two-resonator geometry, measurement and ROI",
+      "status": "GENERATED",
+      "figure": "figures/fig01_geometry_roi_acquisition.png",
+      "copy": "research/delegated/figures/fig01_geometry_roi_acquisition.png",
+      "sources": [
+        "configs/protocol.json"
+      ],
+      "missing": [],
+      "note": "geometry/ROI/acquisition from protocol.json"
+    },
+    {
+      "id": "fig02",
+      "title": "Frequency spectrum (discovery sweep)",
+      "status": "PROVISIONAL",
+      "figure": "figures/fig02_frequency_spectrum.png",
+      "copy": "research/delegated/figures/fig02_frequency_spectrum.png",
+      "sources": [
+        "results/discovery/r0.10_e12.npz",
+        "results/discovery/r0.10_e16.npz",
+        "results/discovery/r0.10_e8.npz",
+        "results/discovery/r0.12_e12.npz",
+        "results/discovery/r0.12_e16.npz",
+        "results/discovery/r0.12_e8.npz",
+        "results/discovery/summary.json"
+      ],
+      "missing": [],
+      "note": "discovery screening sweep; bright/dark labels withheld pending modal audit"
+    },
+    {
+      "id": "fig03",
+      "title": "Two dominant modes / radiation visibility",
+      "status": "PROVISIONAL",
+      "figure": "figures/fig03_mode_diagnostic.png",
+      "copy": "research/delegated/figures/fig03_mode_diagnostic.png",
+      "sources": [
+        "results/modal_audit.npz",
+        "results/modal_audit.json"
+      ],
+      "missing": [],
+      "note": "Fixed-grid diagnostic; known spatial discretization error"
+    },
+    {
+      "id": "fig04",
+      "title": "External response vs internal ROI energy parameter map",
+      "status": "PROVISIONAL",
+      "figure": "figures/fig04_parameter_map.png",
+      "copy": "research/delegated/figures/fig04_parameter_map.png",
+      "sources": [
+        "results/discovery/coarse_r0.10_e12.npz",
+        "results/discovery/summary.json"
+      ],
+      "missing": [],
+      "note": "discovery coarse screening table; explicitly not confirmatory prevalence"
+    },
+    {
+      "id": "fig05",
+      "title": "Posterior in (s, Delta, gamma) under a single-frequency measurement",
+      "status": "PROVISIONAL",
+      "figure": "figures/fig05_parameter_posterior.png",
+      "copy": "research/delegated/figures/fig05_parameter_posterior.png",
+      "sources": [
+        "results/table_41_coupled/prior.npz",
+        "results/table_41_coupled/Q.npy",
+        "results/table_41_coupled/y.npy",
+        "results/queries_validation_11_coupled.npz",
+        "results/validation_41_coupled/seed11_noise0.02_base.json",
+        "results/reference_validation_gate.json"
+      ],
+      "missing": [],
+      "note": "table 41^3, rep query 83 (max variance validation), sigma from protocol | reference_validation_gate.json absent or not passed"
+    },
+    {
+      "id": "fig06",
+      "title": "Posterior p(Q|y) of the internal task",
+      "status": "PROVISIONAL",
+      "figure": "figures/fig06_Q_posterior.png",
+      "copy": "research/delegated/figures/fig06_Q_posterior.png",
+      "sources": [
+        "results/table_41_coupled/prior.npz",
+        "results/table_41_coupled/Q.npy",
+        "results/table_41_coupled/y.npy",
+        "results/queries_validation_11_coupled.npz",
+        "results/validation_41_coupled/seed11_noise0.02_base.json",
+        "results/reference_validation_gate.json"
+      ],
+      "missing": [],
+      "note": "p(Q|y) for rep query 83 | reference_validation_gate.json absent or not passed"
+    },
+    {
+      "id": "fig07",
+      "title": "Material / field pair at 10% and 90% Q nodes",
+      "status": "PROVISIONAL",
+      "figure": "figures/fig07_material_field_pair.png",
+      "copy": "research/delegated/figures/fig07_material_field_pair.png",
+      "sources": [
+        "results/table_41_coupled/prior.npz",
+        "results/table_41_coupled/Q.npy",
+        "results/table_41_coupled/y.npy",
+        "results/queries_validation_11_coupled.npz",
+        "results/validation_41_coupled/seed11_noise0.02_base.json",
+        "results/reference_validation_gate.json"
+      ],
+      "missing": [],
+      "note": "10/90% Q nodes for rep query 83; not a branch claim | reference_validation_gate.json absent or not passed"
+    },
+    {
+      "id": "fig08",
+      "title": "Prior-predictive distribution of posterior task risk",
+      "status": "PROVISIONAL",
+      "figure": "figures/fig08_query_sd_distribution.png",
+      "copy": "research/delegated/figures/fig08_query_sd_distribution.png",
+      "sources": [
+        "results/validation_41_coupled/summary.json",
+        "results/validation_41_coupled/seed11_noise0.01_base.json",
+        "results/validation_41_coupled/seed11_noise0.01_base1.json",
+        "results/validation_41_coupled/seed11_noise0.01_base8.json",
+        "results/validation_41_coupled/seed11_noise0.01_near.json",
+        "results/validation_41_coupled/seed11_noise0.01_neighbor.json",
+        "results/validation_41_coupled/seed11_noise0.01_optimized_angles.json",
+        "results/validation_41_coupled/seed11_noise0.01_random.json",
+        "results/validation_41_coupled/seed11_noise0.01_same_angles.json",
+        "results/validation_41_coupled/seed11_noise0.02_base.json",
+        "results/validation_41_coupled/seed11_noise0.02_base1.json",
+        "results/validation_41_coupled/seed11_noise0.02_base8.json",
+        "results/validation_41_coupled/seed11_noise0.02_near.json",
+        "results/validation_41_coupled/seed11_noise0.02_neighbor.json",
+        "results/validation_41_coupled/seed11_noise0.02_optimized_angles.json",
+        "results/validation_41_coupled/seed11_noise0.02_random.json",
+        "results/validation_41_coupled/seed11_noise0.02_same_angles.json",
+        "results/validation_41_coupled/seed11_noise0.05_base.json",
+        "results/validation_41_coupled/seed11_noise0.05_base1.json",
+        "results/validation_41_coupled/seed11_noise0.05_base8.json",
+        "results/validation_41_coupled/seed11_noise0.05_near.json",
+        "results/validation_41_coupled/seed11_noise0.05_neighbor.json",
+        "results/validation_41_coupled/seed11_noise0.05_optimized_angles.json",
+        "results/validation_41_coupled/seed11_noise0.05_random.json",
+        "results/validation_41_coupled/seed11_noise0.05_same_angles.json",
+        "results/validation_41_coupled/seed29_noise0.01_base.json",
+        "results/validation_41_coupled/seed29_noise0.01_base1.json",
+        "results/validation_41_coupled/seed29_noise0.01_base8.json",
+        "results/validation_41_coupled/seed29_noise0.01_near.json",
+        "results/validation_41_coupled/seed29_noise0.01_neighbor.json",
+        "results/validation_41_coupled/seed29_noise0.01_optimized_angles.json",
+        "results/validation_41_coupled/seed29_noise0.01_random.json",
+        "results/validation_41_coupled/seed29_noise0.01_same_angles.json",
+        "results/validation_41_coupled/seed29_noise0.02_base.json",
+        "results/validation_41_coupled/seed29_noise0.02_base1.json",
+        "results/validation_41_coupled/seed29_noise0.02_base8.json",
+        "results/validation_41_coupled/seed29_noise0.02_near.json",
+        "results/validation_41_coupled/seed29_noise0.02_neighbor.json",
+        "results/validation_41_coupled/seed29_noise0.02_optimized_angles.json",
+        "results/validation_41_coupled/seed29_noise0.02_random.json",
+        "results/validation_41_coupled/seed29_noise0.02_same_angles.json",
+        "results/validation_41_coupled/seed29_noise0.05_base.json",
+        "results/validation_41_coupled/seed29_noise0.05_base1.json",
+        "results/validation_41_coupled/seed29_noise0.05_base8.json",
+        "results/validation_41_coupled/seed29_noise0.05_near.json",
+        "results/validation_41_coupled/seed29_noise0.05_neighbor.json",
+        "results/validation_41_coupled/seed29_noise0.05_optimized_angles.json",
+        "results/validation_41_coupled/seed29_noise0.05_random.json",
+        "results/validation_41_coupled/seed29_noise0.05_same_angles.json",
+        "results/validation_41_coupled/seed47_noise0.01_base.json",
+        "results/validation_41_coupled/seed47_noise0.01_base1.json",
+        "results/validation_41_coupled/seed47_noise0.01_base8.json",
+        "results/validation_41_coupled/seed47_noise0.01_near.json",
+        "results/validation_41_coupled/seed47_noise0.01_neighbor.json",
+        "results/validation_41_coupled/seed47_noise0.01_optimized_angles.json",
+        "results/validation_41_coupled/seed47_noise0.01_random.json",
+        "results/validation_41_coupled/seed47_noise0.01_same_angles.json",
+        "results/validation_41_coupled/seed47_noise0.02_base.json",
+        "results/validation_41_coupled/seed47_noise0.02_base1.json",
+        "results/validation_41_coupled/seed47_noise0.02_base8.json",
+        "results/validation_41_coupled/seed47_noise0.02_near.json",
+        "results/validation_41_coupled/seed47_noise0.02_neighbor.json",
+        "results/validation_41_coupled/seed47_noise0.02_optimized_angles.json",
+        "results/validation_41_coupled/seed47_noise0.02_random.json",
+        "results/validation_41_coupled/seed47_noise0.02_same_angles.json",
+        "results/validation_41_coupled/seed47_noise0.05_base.json",
+        "results/validation_41_coupled/seed47_noise0.05_base1.json",
+        "results/validation_41_coupled/seed47_noise0.05_base8.json",
+        "results/validation_41_coupled/seed47_noise0.05_near.json",
+        "results/validation_41_coupled/seed47_noise0.05_neighbor.json",
+        "results/validation_41_coupled/seed47_noise0.05_optimized_angles.json",
+        "results/validation_41_coupled/seed47_noise0.05_random.json",
+        "results/validation_41_coupled/seed47_noise0.05_same_angles.json",
+        "results/validation_41_coupled/summary.json"
+      ],
+      "missing": [],
+      "note": "per-query SD from validation rows | reference_validation_gate.json absent or not passed"
+    },
+    {
+      "id": "fig09",
+      "title": "Task-risk reduction: same-frequency vs neighbor vs near-field",
+      "status": "PROVISIONAL",
+      "figure": "figures/fig09_risk_comparison.png",
+      "copy": "research/delegated/figures/fig09_risk_comparison.png",
+      "sources": [
+        "results/validation_41_coupled/summary.json"
+      ],
+      "missing": [],
+      "note": "validation summary risk/prevalence comparison | reference_validation_gate.json absent or not passed"
+    },
+    {
+      "id": "fig10",
+      "title": "Coupling ablation",
+      "status": "PROVISIONAL",
+      "figure": "figures/fig10_coupling_ablation.png",
+      "copy": "research/delegated/figures/fig10_coupling_ablation.png",
+      "sources": [
+        "results/validation_33_coupled/summary.json",
+        "results/validation_33_uncoupled/summary.json"
+      ],
+      "missing": [],
+      "note": "equal 33-cubed rules, unvalidated ablation risk | reference_validation_gate.json absent or not passed"
+    },
+    {
+      "id": "fig11",
+      "title": "Material injection / resolvent / visibility / task decomposition",
+      "status": "PROVISIONAL",
+      "figure": "figures/fig11_modal_decomposition.png",
+      "copy": "research/delegated/figures/fig11_modal_decomposition.png",
+      "sources": [
+        "results/modal_audit.npz",
+        "results/modal_audit.json"
+      ],
+      "missing": [],
+      "note": "VIE n64 physical injection diagnostic; residual modes in JSON, no sufficient-condition certificate"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "order20_vs24_whitened_rms_max": 4.0394288399401777e-10,
+  "order20_vs24_Q_max": 4.18509671362699e-12,
+  "flux_balance_max": 5.6116951317642315e-15,
+  "boundary_value_jump_max": 6.776263156630589e-05
+}

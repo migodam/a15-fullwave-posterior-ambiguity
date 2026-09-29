@@ -1,0 +1,288 @@
+{
+  "schema": 1,
+  "stage": "confirmatory_frozen",
+  "created_utc": "2026-09-26T03:25:27.513882+00:00",
+  "theory_manifest": [
+    {
+      "source": "Flow Matching/A15/A15_prompt.md",
+      "snapshot": "context/00_A15_prompt.md",
+      "sha256": "91d02516897f718d3aa483ec0872f1b74349ba6343d31e39d092b72f1ad63839"
+    },
+    {
+      "source": "Flow Matching/A15/A15.md",
+      "snapshot": "context/01_A15.md",
+      "sha256": "425684ce8c561c98b0e82c413c14dd3a6903632eca58a120e43550d75972bc9f"
+    },
+    {
+      "source": "Flow Matching/A15/Q15.md",
+      "snapshot": "context/02_Q15.md",
+      "sha256": "55f7ca641cce064963566468e297e5d81545e9aa1e58e8a9fecb36ca0d8408b7"
+    },
+    {
+      "source": "Flow Matching/A14/A14.md",
+      "snapshot": "context/03_A14.md",
+      "sha256": "0b72e5af5362ccc9d6c14287cede349fd60558834920fcfc456a9a365ee6021f"
+    },
+    {
+      "source": "Flow Matching/A14/Q14.md",
+      "snapshot": "context/04_Q14.md",
+      "sha256": "c7bdeb632aabc47c7e1348e90ab61494d49c772ff0de97b6715e2369c06f66d8"
+    },
+    {
+      "source": "Flow Matching/A14/reports/A14_FINAL_REPORT.md",
+      "snapshot": "context/05_A14_FINAL_REPORT.md",
+      "sha256": "cf3319e720ffd86e1938aa7e38901bec53cca6e248f5b826d4088bdd4497683c"
+    },
+    {
+      "source": "Flow Matching/A14/reports/GATE_A.md",
+      "snapshot": "context/06_GATE_A.md",
+      "sha256": "76d84c7c8302a9f57a489c244b513f35f38059cdcd5135bc5446225cab8decb8"
+    },
+    {
+      "source": "Flow Matching/A14/src/physics.py",
+      "snapshot": "context/07_physics.py",
+      "sha256": "88df744b3c89e33705e6cfacb643bc1480e0e08dfff697c0229fec58d3cd7d2d"
+    },
+    {
+      "source": "Flow Matching/A14/src/physics_backend.py",
+      "snapshot": "context/08_physics_backend.py",
+      "sha256": "986d89e9f408be1bbcc28da6073dcd77755c5380d66b475e3bf68190c9dfbbbe"
+    },
+    {
+      "source": "Gaussian/A9/A9_THEORY_CORE.md",
+      "snapshot": "context/09_A9_THEORY_CORE.md",
+      "sha256": "47796f1e1a411b065bfbf500c6c660722fb1609bf0bdd532cf866e0f52bc77c6"
+    },
+    {
+      "source": "Gaussian/A12/PAPER_SUPPLEMENT_FINAL.md",
+      "snapshot": "context/10_PAPER_SUPPLEMENT_FINAL.md",
+      "sha256": "f4b829456f29a56a73d5e18d3e9110e4de50684adc4552e13fd8082ad1116815"
+    },
+    {
+      "source": "Gaussian/A12/A12_FINAL_RESEARCH_REPORT_ZH.md",
+      "snapshot": "context/11_A12_FINAL_RESEARCH_REPORT_ZH.md",
+      "sha256": "5689fbcd73b124396e7c55ca237be6115e45a2630e49abacbda14e22ed6dcc3d"
+    }
+  ],
+  "seeds": [
+    11,
+    29,
+    47
+  ],
+  "discovery_seed": 15001,
+  "radii": [
+    0.1,
+    0.12
+  ],
+  "epsilon_base": [
+    8.0,
+    12.0,
+    16.0
+  ],
+  "gap_range": [
+    0.02,
+    0.16
+  ],
+  "relative_detuning_range": [
+    -0.25,
+    0.25
+  ],
+  "gamma_range": [
+    0.001,
+    0.08
+  ],
+  "bright_gamma": 0.002,
+  "k_ref": 6.283185307179586,
+  "frequency_range": [
+    3.0,
+    12.0
+  ],
+  "frequency_count": 41,
+  "refined_count": 81,
+  "discovery_solve_cap": 30000,
+  "overall_solve_cap": 500000,
+  "grid_levels": [
+    32,
+    48,
+    64,
+    96,
+    128
+  ],
+  "primary_noise": 0.02,
+  "noise_levels": [
+    0.01,
+    0.02,
+    0.05
+  ],
+  "validation_per_seed": 128,
+  "test_per_seed": 512,
+  "tau_q": 0.22314355131420976,
+  "ci90_energy_ratio_min": 1.5,
+  "prevalence_min": 0.1,
+  "prevalence_lower95_min": 0.1,
+  "bootstrap_replicates": 5000,
+  "acquisition_advantage_percentage_points": 10,
+  "quadrature_orders": [
+    33,
+    41
+  ],
+  "reference_mean_tol": 0.02,
+  "reference_variance_rel_tol": 0.05,
+  "reference_variance_abs_tol": 1e-05,
+  "reference_quantile_tol": 0.03,
+  "reference_branch_tol": 0.02,
+  "mesh_q_tol": 0.02,
+  "mesh_whitened_rms_tol": 0.1,
+  "mesh_whitened_max_tol": 0.25,
+  "linear_residual_tol": 1e-10,
+  "time_convention": "exp(-i omega t)",
+  "material_model": "epsilon_real + i gamma k_ref/k",
+  "gate_a": "all seed rates >=.10 and pooled Wilson lower95 >=.10; converged passive stable reference required",
+  "gate_b": "Gate A + quantitative two-mode explanation + preregistered targeted risk advantage + coupling attribution",
+  "flow": "blocked pending Gate B PASS and simple posterior approximation failure",
+  "test_opened": false,
+  "family": {
+    "radius": 0.1,
+    "epsilon_base": 12.0,
+    "target_x": 0.18,
+    "bright_gamma": 0.002,
+    "k_ref": 6.283185307179586,
+    "gap_min": 0.02,
+    "gap_max": 0.16
+  },
+  "bounds": [
+    [
+      0.02,
+      0.16
+    ],
+    [
+      -3.0,
+      3.0
+    ],
+    [
+      0.001,
+      0.08
+    ]
+  ],
+  "k0": 8.625,
+  "frequencies": [
+    8.19375,
+    8.625,
+    9.05625
+  ],
+  "backend": "converged full-wave cylinder expansion, CPU complex128",
+  "modal_order": 20,
+  "radial_order": 48,
+  "noise_rms": 0.2025837700889245,
+  "sigma_primary": 0.00405167540177849,
+  "primary_channels": [
+    0,
+    1
+  ],
+  "extra_fixed": [
+    2,
+    3
+  ],
+  "extra_optimized": [
+    4,
+    8
+  ],
+  "extra_random": [
+    9,
+    8
+  ],
+  "near_channels": [
+    16,
+    17
+  ],
+  "neighbor_index": 2,
+  "external_receivers": [
+    [
+      2.0,
+      0.0
+    ],
+    [
+      -2.0,
+      2.4492935982947064e-16
+    ],
+    [
+      1.4142135623730951,
+      1.414213562373095
+    ],
+    [
+      -1.414213562373095,
+      1.4142135623730951
+    ],
+    [
+      1.8477590650225735,
+      0.7653668647301796
+    ],
+    [
+      0.7653668647301797,
+      1.8477590650225735
+    ],
+    [
+      -0.7653668647301795,
+      1.8477590650225735
+    ],
+    [
+      -1.8477590650225735,
+      0.7653668647301798
+    ],
+    [
+      1.9615705608064609,
+      0.3901806440322565
+    ],
+    [
+      1.6629392246050905,
+      1.1111404660392044
+    ],
+    [
+      1.1111404660392046,
+      1.6629392246050905
+    ],
+    [
+      0.39018064403225666,
+      1.9615705608064609
+    ],
+    [
+      -0.3901806440322564,
+      1.9615705608064609
+    ],
+    [
+      -1.111140466039204,
+      1.6629392246050907
+    ],
+    [
+      -1.6629392246050907,
+      1.1111404660392044
+    ],
+    [
+      -1.9615705608064609,
+      0.3901806440322572
+    ]
+  ],
+  "near_receivers": [
+    [
+      0.32,
+      0.0
+    ],
+    [
+      0.18,
+      0.14
+    ]
+  ],
+  "prior_box_mass_within_family": 1.0,
+  "family_weight_if_uniform_six_template_prior": 0.16666666666666666,
+  "selection": "largest coarse task risk across three pre-ranked candidates; full discovery theta box retained; no confirmatory prevalence claim",
+  "predictions": {
+    "base": 0.011166206728566847,
+    "neighbor_minus": 0.006326485905295557,
+    "neighbor_plus": 0.0035269533069158076,
+    "near": 0.0005869861189162814
+  },
+  "optimized_angle_predicted_risk": 0.004917417148242045,
+  "target_prediction_scope": "full-wave local parameter tangent proxy, NOT validated two-mode prediction; coupled-mode explanation evaluated separately",
+  "coupling_prediction": "deleting cross-body feedback is predicted to decrease Q posterior risk and diminish neighboring-frequency advantage; test both, retain contrary results",
+  "created_unix": 1790393988.2822201
+}

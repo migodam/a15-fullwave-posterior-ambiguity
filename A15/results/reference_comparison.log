@@ -1,0 +1,218 @@
+[
+  {
+    "noise": 0.01,
+    "method": "base",
+    "passed": 71,
+    "total": 384,
+    "max_mean_difference": 0.19586541831588766,
+    "max_variance_relative": 23.221514191969987,
+    "max_quantile_difference": 0.23371800188995318
+  },
+  {
+    "noise": 0.01,
+    "method": "base1",
+    "passed": 209,
+    "total": 384,
+    "max_mean_difference": 0.10062760648665137,
+    "max_variance_relative": 6.234399795400102,
+    "max_quantile_difference": 0.20352137574199336
+  },
+  {
+    "noise": 0.01,
+    "method": "base8",
+    "passed": 53,
+    "total": 384,
+    "max_mean_difference": 0.2047678919707221,
+    "max_variance_relative": 782.8809514771882,
+    "max_quantile_difference": 0.2526271366855788
+  },
+  {
+    "noise": 0.01,
+    "method": "near",
+    "passed": 51,
+    "total": 384,
+    "max_mean_difference": 0.09555199650306001,
+    "max_variance_relative": 379.2222123218795,
+    "max_quantile_difference": 0.10306953652047524
+  },
+  {
+    "noise": 0.01,
+    "method": "neighbor",
+    "passed": 79,
+    "total": 384,
+    "max_mean_difference": 0.1433702626832356,
+    "max_variance_relative": 315.55466480048347,
+    "max_quantile_difference": 0.21130094431487034
+  },
+  {
+    "noise": 0.01,
+    "method": "optimized_angles",
+    "passed": 66,
+    "total": 384,
+    "max_mean_difference": 0.10938232789251146,
+    "max_variance_relative": 124.18243818292531,
+    "max_quantile_difference": 0.14439359180928246
+  },
+  {
+    "noise": 0.01,
+    "method": "random",
+    "passed": 75,
+    "total": 384,
+    "max_mean_difference": 0.1149814960599973,
+    "max_variance_relative": 688.5319228989724,
+    "max_quantile_difference": 0.17032261176678132
+  },
+  {
+    "noise": 0.01,
+    "method": "same_angles",
+    "passed": 48,
+    "total": 384,
+    "max_mean_difference": 0.22798467206219808,
+    "max_variance_relative": 63.00064770729835,
+    "max_quantile_difference": 0.2522795020439381
+  },
+  {
+    "noise": 0.02,
+    "method": "base",
+    "passed": 94,
+    "total": 384,
+    "max_mean_difference": 0.11836019097438566,
+    "max_variance_relative": 4.401118954202757,
+    "max_quantile_difference": 0.15383609413938526
+  },
+  {
+    "noise": 0.02,
+    "method": "base1",
+    "passed": 315,
+    "total": 384,
+    "max_mean_difference": 0.029874381815702566,
+    "max_variance_relative": 3.191746428970127,
+    "max_quantile_difference": 0.08140052295095956
+  },
+  {
+    "noise": 0.02,
+    "method": "base8",
+    "passed": 63,
+    "total": 384,
+    "max_mean_difference": 0.19820464632611845,
+    "max_variance_relative": 50.08313119964452,
+    "max_quantile_difference": 0.25194644857829207
+  },
+  {
+    "noise": 0.02,
+    "method": "near",
+    "passed": 77,
+    "total": 384,
+    "max_mean_difference": 0.09132518807364853,
+    "max_variance_relative": 236.60383371424643,
+    "max_quantile_difference": 0.1069696950287704
+  },
+  {
+    "noise": 0.02,
+    "method": "neighbor",
+    "passed": 100,
+    "total": 384,
+    "max_mean_difference": 0.134756220509753,
+    "max_variance_relative": 15.00142667256943,
+    "max_quantile_difference": 0.1770978173230584
+  },
+  {
+    "noise": 0.02,
+    "method": "optimized_angles",
+    "passed": 85,
+    "total": 384,
+    "max_mean_difference": 0.07834108964609632,
+    "max_variance_relative": 4.761957330315411,
+    "max_quantile_difference": 0.13126495346429268
+  },
+  {
+    "noise": 0.02,
+    "method": "random",
+    "passed": 96,
+    "total": 384,
+    "max_mean_difference": 0.09144692815723143,
+    "max_variance_relative": 7.266902519885488,
+    "max_quantile_difference": 0.13763289684098323
+  },
+  {
+    "noise": 0.02,
+    "method": "same_angles",
+    "passed": 71,
+    "total": 384,
+    "max_mean_difference": 0.14174682870971989,
+    "max_variance_relative": 7.741345273001441,
+    "max_quantile_difference": 0.20315367394891348
+  },
+  {
+    "noise": 0.05,
+    "method": "base",
+    "passed": 235,
+    "total": 384,
+    "max_mean_difference": 0.003821444597141621,
+    "max_variance_relative": 0.04806903261651145,
+    "max_quantile_difference": 0.0838244076466812
+  },
+  {
+    "noise": 0.05,
+    "method": "base1",
+    "passed": 372,
+    "total": 384,
+    "max_mean_difference": 0.0003282693581232454,
+    "max_variance_relative": 0.01519823906089598,
+    "max_quantile_difference": 0.03946554939307112
+  },
+  {
+    "noise": 0.05,
+    "method": "base8",
+    "passed": 168,
+    "total": 384,
+    "max_mean_difference": 0.04200563913568356,
+    "max_variance_relative": 0.5653643778891607,
+    "max_quantile_difference": 0.11573083731896094
+  },
+  {
+    "noise": 0.05,
+    "method": "near",
+    "passed": 193,
+    "total": 384,
+    "max_mean_difference": 0.06337379255595299,
+    "max_variance_relative": 2.09040649985517,
+    "max_quantile_difference": 0.10789461088602348
+  },
+  {
+    "noise": 0.05,
+    "method": "neighbor",
+    "passed": 206,
+    "total": 384,
+    "max_mean_difference": 0.031977842043623195,
+    "max_variance_relative": 0.39723238004252276,
+    "max_quantile_difference": 0.11097945687023136
+  },
+  {
+    "noise": 0.05,
+    "method": "optimized_angles",
+    "passed": 261,
+    "total": 384,
+    "max_mean_difference": 0.013375490718644079,
+    "max_variance_relative": 0.31503263507847346,
+    "max_quantile_difference": 0.08032646101933993
+  },
+  {
+    "noise": 0.05,
+    "method": "random",
+    "passed": 250,
+    "total": 384,
+    "max_mean_difference": 0.019958064861511637,
+    "max_variance_relative": 0.16207400207269454,
+    "max_quantile_difference": 0.07642285892105671
+  },
+  {
+    "noise": 0.05,
+    "method": "same_angles",
+    "passed": 232,
+    "total": 384,
+    "max_mean_difference": 0.00967794217842588,
+    "max_variance_relative": 0.10269298291084593,
+    "max_quantile_difference": 0.09721310781818193
+  }
+]

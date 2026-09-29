@@ -1,0 +1,26 @@
+{
+  "status": "complete",
+  "completed": 68921,
+  "total": 68921,
+  "order": 41,
+  "coupling": true,
+  "protocol_hash": "eddc3a97a3c39f0bdead44956a3bffadaaa103d2a8bb2568e0d1b9b9658cb38b",
+  "code_hashes": {
+    "cylinders.py": "bbfe90309fade925f62a27fe966bfbcb6bd3253e8c13b0c989f6d398fa8120b5",
+    "physics.py": "5363d0483975716fa91e0f2748ec40f20af2a82dc0eab9e8286599977686a84d",
+    "physics_backend.py": "986d89e9f408be1bbcc28da6073dcd77755c5380d66b475e3bf68190c9dfbbbe",
+    "posterior.py": "48476f7f2f65457775f561d40a28582bae38609186a2cafd5a9b36505e3bce78",
+    "remote.py": "06d2f4f30cb6c6a6420e260dbab563ad902d531617ead78e215095593136839c"
+  },
+  "seed": "deterministic Gauss-Legendre prior integration",
+  "host": "XINAN",
+  "seconds_before_resume": 0,
+  "seconds": 385.4535536999974,
+  "full_wave_solves": 206763,
+  "files": {
+    "diagnostics.npy": "c8687e8dff2a72b3011689c38cce7d8b7e378aab1c7a9fd8f16bc2e5df17664a",
+    "Q.npy": "50e5815206b0df03312b3967e8d78e60f903d3af16d52d0e09846604974779f4",
+    "y.npy": "df5a0ea2f9fed91816bb00af592ddb37c0fdf84b4cea80e81a298c8f9caecb7a",
+    "prior.npz": "978c613887a7699e5d575be1e35c8bf5812a41271cec0b9719a842bd5e235199"
+  }
+}

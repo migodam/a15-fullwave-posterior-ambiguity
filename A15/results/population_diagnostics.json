@@ -1,0 +1,300 @@
+{
+  "status": "PROVISIONAL VALIDATION DIAGNOSTIC \u2014 reference failed, not confirmatory",
+  "protocol_hash": "eddc3a97a3c39f0bdead44956a3bffadaaa103d2a8bb2568e0d1b9b9658cb38b",
+  "methods": {
+    "base1": {
+      "risk": 0.020996160033561733,
+      "risk_ci": [
+        0.019885571714877488,
+        0.02210847861016843
+      ],
+      "risk_reduction": -0.624466034279505,
+      "risk_reduction_ci": [
+        -0.7239532850439194,
+        -0.5359436797347006
+      ],
+      "prevalence": 0.0,
+      "prevalence_wilson": [
+        0.0,
+        0.009904714241676492
+      ],
+      "seed_prevalence": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "coverage90": 0.8802083333333334,
+      "mse": 0.023030428890790933,
+      "mse_minus_variance_ci": [
+        -0.001229949760536765,
+        0.005621919419532688
+      ]
+    },
+    "base": {
+      "risk": 0.012924960935162983,
+      "risk_ci": [
+        0.011840823280667821,
+        0.014054086596263185
+      ],
+      "risk_reduction": 0.0,
+      "risk_reduction_ci": [
+        0.0,
+        0.0
+      ],
+      "prevalence": 0.0,
+      "prevalence_wilson": [
+        0.0,
+        0.009904714241676492
+      ],
+      "seed_prevalence": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "coverage90": 0.8619791666666666,
+      "mse": 0.013457376232649988,
+      "mse_minus_variance_ci": [
+        -0.001531098179368516,
+        0.002831337655566686
+      ]
+    },
+    "same_angles": {
+      "risk": 0.009817952166537379,
+      "risk_ci": [
+        0.008946041665574528,
+        0.010700847670357323
+      ],
+      "risk_reduction": 0.24038825217435167,
+      "risk_reduction_ci": [
+        0.21760329229278333,
+        0.2627606984413343
+      ],
+      "prevalence": 0.0,
+      "prevalence_wilson": [
+        0.0,
+        0.009904714241676492
+      ],
+      "seed_prevalence": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "coverage90": 0.8307291666666666,
+      "mse": 0.010235310081756379,
+      "mse_minus_variance_ci": [
+        -0.0012208024156643623,
+        0.0022401272966194835
+      ]
+    },
+    "optimized_angles": {
+      "risk": 0.005750178076801071,
+      "risk_ci": [
+        0.005255376442236325,
+        0.006256044265029829
+      ],
+      "risk_reduction": 0.5551106029916553,
+      "risk_reduction_ci": [
+        0.5378433321500049,
+        0.5738404985192463
+      ],
+      "prevalence": 0.0,
+      "prevalence_wilson": [
+        0.0,
+        0.009904714241676492
+      ],
+      "seed_prevalence": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "coverage90": 0.859375,
+      "mse": 0.005200521088423161,
+      "mse_minus_variance_ci": [
+        -0.001446985824713358,
+        0.00044551947418808465
+      ]
+    },
+    "neighbor": {
+      "risk": 0.0038403471468457886,
+      "risk_ci": [
+        0.0035644762604668334,
+        0.0041168865910157825
+      ],
+      "risk_reduction": 0.7028735973663225,
+      "risk_reduction_ci": [
+        0.6810393537574948,
+        0.7223058908967271
+      ],
+      "prevalence": 0.0,
+      "prevalence_wilson": [
+        0.0,
+        0.009904714241676492
+      ],
+      "seed_prevalence": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "coverage90": 0.8463541666666666,
+      "mse": 0.0038951667065339392,
+      "mse_minus_variance_ci": [
+        -0.0004868581479653972,
+        0.0006443396036627568
+      ]
+    },
+    "near": {
+      "risk": 0.0006875164833151862,
+      "risk_ci": [
+        0.0006366936685968259,
+        0.0007390315034932691
+      ],
+      "risk_reduction": 0.9468070745618453,
+      "risk_reduction_ci": [
+        0.9429112667697063,
+        0.9501948183644392
+      ],
+      "prevalence": 0.0,
+      "prevalence_wilson": [
+        0.0,
+        0.009904714241676492
+      ],
+      "seed_prevalence": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "coverage90": 0.7604166666666666,
+      "mse": 0.0008038337109651739,
+      "mse_minus_variance_ci": [
+        -8.005248251327863e-06,
+        0.00024344929660049473
+      ]
+    },
+    "random": {
+      "risk": 0.006299186070166852,
+      "risk_ci": [
+        0.00576068665967562,
+        0.006856570028655056
+      ],
+      "risk_reduction": 0.5126340341169147,
+      "risk_reduction_ci": [
+        0.49442163621061935,
+        0.5308555930158252
+      ],
+      "prevalence": 0.0,
+      "prevalence_wilson": [
+        0.0,
+        0.009904714241676492
+      ],
+      "seed_prevalence": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "coverage90": 0.8515625,
+      "mse": 0.005610058025228959,
+      "mse_minus_variance_ci": [
+        -0.001556973921129317,
+        0.00018378315392356698
+      ]
+    },
+    "base8": {
+      "risk": 0.005677166589778931,
+      "risk_ci": [
+        0.005152336878846793,
+        0.006217630397256364
+      ],
+      "risk_reduction": 0.5607594778616372,
+      "risk_reduction_ci": [
+        0.540049162815047,
+        0.581322745892044
+      ],
+      "prevalence": 0.0,
+      "prevalence_wilson": [
+        0.0,
+        0.009904714241676492
+      ],
+      "seed_prevalence": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "coverage90": 0.7838541666666666,
+      "mse": 0.00625871159619852,
+      "mse_minus_variance_ci": [
+        -0.0005660224974001489,
+        0.001841484813902118
+      ]
+    }
+  },
+  "comparisons": {
+    "neighbor_vs_same_angles": {
+      "additional_risk_reduction_pp": 46.24853451919708,
+      "paired95_pp": [
+        43.25562654585346,
+        49.09052794587336
+      ],
+      "familywise97_5_pp": [
+        42.84346567902011,
+        49.46393874557985
+      ],
+      "seed_pp": [
+        46.62394408714484,
+        45.47594240254074,
+        46.627881065069445
+      ],
+      "inference": "numerical reference invalid; intervals do not include integration bias; no Holm-confirmatory PASS asserted"
+    },
+    "neighbor_vs_optimized_angles": {
+      "additional_risk_reduction_pp": 14.776299437466726,
+      "paired95_pp": [
+        12.30285022849078,
+        17.090955314129722
+      ],
+      "familywise97_5_pp": [
+        11.941092143400718,
+        17.35831843593728
+      ],
+      "seed_pp": [
+        15.08032140749479,
+        15.576873169162516,
+        13.628471626149647
+      ],
+      "inference": "numerical reference invalid; intervals do not include integration bias; no Holm-confirmatory PASS asserted"
+    },
+    "near_vs_same_angles": {
+      "additional_risk_reduction_pp": 70.64188223874936,
+      "paired95_pp": [
+        68.45333625960212,
+        72.89100538862738
+      ],
+      "familywise97_5_pp": [
+        68.19410104955278,
+        73.16930570230015
+      ],
+      "seed_pp": [
+        69.71767857629226,
+        70.1992476262154,
+        72.09995502262365
+      ],
+      "inference": "numerical reference invalid; intervals do not include integration bias; no Holm-confirmatory PASS asserted"
+    },
+    "near_vs_optimized_angles": {
+      "additional_risk_reduction_pp": 39.16964715701901,
+      "paired95_pp": [
+        37.42424964257912,
+        40.77535145375848
+      ],
+      "familywise97_5_pp": [
+        37.18623446665227,
+        41.02381316505597
+      ],
+      "seed_pp": [
+        38.1740558966422,
+        40.30017839283719,
+        39.10054558370385
+      ],
+      "inference": "numerical reference invalid; intervals do not include integration bias; no Holm-confirmatory PASS asserted"
+    }
+  }
+}

@@ -1,0 +1,2 @@
+# Parent review and correction
+The worker implemented post-reweight ESS and mislabeled it conditional ESS, then enforced resampling threshold > tempering target to prevent stalls. This is not the requested adaptive CESS algorithm. Corrected CESS to N*(sum w exp(delta))^2/(sum w exp(2delta)), removed that restriction, set CESS target .8 and ESS resampling .5; added nonuniform-weight zero-increment regression and ancestry tracking. Worker results are implementation evidence only, not posterior reference convergence.

@@ -1,0 +1,54 @@
+{
+  "originals_and_snapshots": [
+    {
+      "source": "Flow Matching/A15/A15_prompt.md",
+      "unchanged": true
+    },
+    {
+      "source": "Flow Matching/A15/A15.md",
+      "unchanged": true
+    },
+    {
+      "source": "Flow Matching/A15/Q15.md",
+      "unchanged": true
+    },
+    {
+      "source": "Flow Matching/A14/A14.md",
+      "unchanged": true
+    },
+    {
+      "source": "Flow Matching/A14/Q14.md",
+      "unchanged": true
+    },
+    {
+      "source": "Flow Matching/A14/reports/A14_FINAL_REPORT.md",
+      "unchanged": true
+    },
+    {
+      "source": "Flow Matching/A14/reports/GATE_A.md",
+      "unchanged": true
+    },
+    {
+      "source": "Flow Matching/A14/src/physics.py",
+      "unchanged": true
+    },
+    {
+      "source": "Flow Matching/A14/src/physics_backend.py",
+      "unchanged": true
+    },
+    {
+      "source": "Gaussian/A9/A9_THEORY_CORE.md",
+      "unchanged": true
+    },
+    {
+      "source": "Gaussian/A12/PAPER_SUPPLEMENT_FINAL.md",
+      "unchanged": true
+    },
+    {
+      "source": "Gaussian/A12/A12_FINAL_RESEARCH_REPORT_ZH.md",
+      "unchanged": true
+    }
+  ],
+  "table_hashes_verified": true,
+  "test_files_exist": false
+}

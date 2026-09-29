@@ -1,0 +1,15 @@
+{
+  "coupled33": {
+    "pid": 28244,
+    "status": "complete, exit0"
+  },
+  "coupled41": {
+    "pid": 12796,
+    "status": "complete, exit0"
+  },
+  "uncoupled33": {
+    "status": "complete, exit0"
+  },
+  "all_tables_local": true,
+  "initial_detached_attempt": "interrupted on SSH disconnect; stale PID metadata retained in remote_jobs.json"
+}

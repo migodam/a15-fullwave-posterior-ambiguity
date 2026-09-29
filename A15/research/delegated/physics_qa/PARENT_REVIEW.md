@@ -1,0 +1,2 @@
+# Parent intervention
+The exploratory worker exceeded the assigned mesh levels (attempted n=160/256) and compared some nondefault cylinder families against a default VIE Family, which is not a valid cross-check. Its large exploration was stopped. Raw log retained; no QA verdict inherited. Parent completes bounded validation with matching physical parameters. Cross-body-block deletion is a deliberately nonphysical counterfactual, so global boundary/flux conservation is gated only for coupling=True.

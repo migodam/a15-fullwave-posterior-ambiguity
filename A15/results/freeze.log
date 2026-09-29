@@ -1,0 +1,19 @@
+{
+  "family": {
+    "radius": 0.1,
+    "epsilon_base": 12.0,
+    "target_x": 0.18,
+    "bright_gamma": 0.002,
+    "k_ref": 6.283185307179586,
+    "gap_min": 0.02,
+    "gap_max": 0.16
+  },
+  "k0": 8.625,
+  "sigma": 0.00405167540177849,
+  "neighbor_index": 2,
+  "optimized_angles": [
+    4,
+    8
+  ],
+  "hash": "eddc3a97a3c39f0bdead44956a3bffadaaa103d2a8bb2568e0d1b9b9658cb38b"
+}

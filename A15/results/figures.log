@@ -1,0 +1,15 @@
+A15 figure build  2026-09-26T04:06:09.204313+00:00
+reference gate passed: False
+[GENERATED  ] figures/fig01_geometry_roi_acquisition.png
+[PROVISIONAL] figures/fig02_frequency_spectrum.png
+[PROVISIONAL] figures/fig03_mode_diagnostic.png
+[PROVISIONAL] figures/fig04_parameter_map.png
+[PROVISIONAL] figures/fig05_parameter_posterior.png
+[PROVISIONAL] figures/fig06_Q_posterior.png
+[PROVISIONAL] figures/fig07_material_field_pair.png
+[PROVISIONAL] figures/fig08_query_sd_distribution.png
+[PROVISIONAL] figures/fig09_risk_comparison.png
+[PROVISIONAL] figures/fig10_coupling_ablation.png
+[PROVISIONAL] figures/fig11_modal_decomposition.png
+
+manifest: research/delegated/figures/FIGURES_MANIFEST.md

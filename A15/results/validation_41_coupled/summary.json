@@ -1,0 +1,250 @@
+{
+  "summary": [
+    {
+      "noise": 0.01,
+      "method": "base1",
+      "count": 384,
+      "risk": 0.007208386370596229,
+      "prevalence": 0.0,
+      "coverage90": 0.8723958333333334,
+      "mean_squared_error": 0.0074984570273124405
+    },
+    {
+      "noise": 0.01,
+      "method": "base",
+      "count": 384,
+      "risk": 0.003464311349035595,
+      "prevalence": 0.0,
+      "coverage90": 0.765625,
+      "mean_squared_error": 0.004004236055492448
+    },
+    {
+      "noise": 0.01,
+      "method": "same_angles",
+      "count": 384,
+      "risk": 0.0026265009571542156,
+      "prevalence": 0.0,
+      "coverage90": 0.7109375,
+      "mean_squared_error": 0.003322786753715353
+    },
+    {
+      "noise": 0.01,
+      "method": "base8",
+      "count": 384,
+      "risk": 0.0015239837863636433,
+      "prevalence": 0.0,
+      "coverage90": 0.6302083333333334,
+      "mean_squared_error": 0.0025687649061395864
+    },
+    {
+      "noise": 0.01,
+      "method": "optimized_angles",
+      "count": 384,
+      "risk": 0.0014762720148877387,
+      "prevalence": 0.0,
+      "coverage90": 0.7213541666666666,
+      "mean_squared_error": 0.0015866498243509858
+    },
+    {
+      "noise": 0.01,
+      "method": "neighbor",
+      "count": 384,
+      "risk": 0.0009760071093886836,
+      "prevalence": 0.0,
+      "coverage90": 0.7265625,
+      "mean_squared_error": 0.0013001038433370154
+    },
+    {
+      "noise": 0.01,
+      "method": "near",
+      "count": 384,
+      "risk": 0.0001813363830205785,
+      "prevalence": 0.0,
+      "coverage90": 0.4713541666666667,
+      "mean_squared_error": 0.00042317571127253845
+    },
+    {
+      "noise": 0.01,
+      "method": "random",
+      "count": 384,
+      "risk": 0.001604308799425095,
+      "prevalence": 0.0,
+      "coverage90": 0.734375,
+      "mean_squared_error": 0.0018610558909048765
+    },
+    {
+      "noise": 0.02,
+      "method": "base1",
+      "count": 384,
+      "risk": 0.020996160033561733,
+      "prevalence": 0.0,
+      "coverage90": 0.8802083333333334,
+      "mean_squared_error": 0.023030428890790933
+    },
+    {
+      "noise": 0.02,
+      "method": "base",
+      "count": 384,
+      "risk": 0.012924960935162983,
+      "prevalence": 0.0,
+      "coverage90": 0.8619791666666666,
+      "mean_squared_error": 0.013457376232649988
+    },
+    {
+      "noise": 0.02,
+      "method": "same_angles",
+      "count": 384,
+      "risk": 0.009817952166537379,
+      "prevalence": 0.0,
+      "coverage90": 0.8307291666666666,
+      "mean_squared_error": 0.010235310081756379
+    },
+    {
+      "noise": 0.02,
+      "method": "base8",
+      "count": 384,
+      "risk": 0.005677166589778931,
+      "prevalence": 0.0,
+      "coverage90": 0.7838541666666666,
+      "mean_squared_error": 0.00625871159619852
+    },
+    {
+      "noise": 0.02,
+      "method": "optimized_angles",
+      "count": 384,
+      "risk": 0.005750178076801071,
+      "prevalence": 0.0,
+      "coverage90": 0.859375,
+      "mean_squared_error": 0.005200521088423161
+    },
+    {
+      "noise": 0.02,
+      "method": "neighbor",
+      "count": 384,
+      "risk": 0.0038403471468457886,
+      "prevalence": 0.0,
+      "coverage90": 0.8463541666666666,
+      "mean_squared_error": 0.0038951667065339392
+    },
+    {
+      "noise": 0.02,
+      "method": "near",
+      "count": 384,
+      "risk": 0.0006875164833151862,
+      "prevalence": 0.0,
+      "coverage90": 0.7604166666666666,
+      "mean_squared_error": 0.0008038337109651739
+    },
+    {
+      "noise": 0.02,
+      "method": "random",
+      "count": 384,
+      "risk": 0.006299186070166852,
+      "prevalence": 0.0,
+      "coverage90": 0.8515625,
+      "mean_squared_error": 0.005610058025228959
+    },
+    {
+      "noise": 0.05,
+      "method": "base1",
+      "count": 384,
+      "risk": 0.07360431078835866,
+      "prevalence": 0.7942708333333334,
+      "coverage90": 0.875,
+      "mean_squared_error": 0.08170222177685287
+    },
+    {
+      "noise": 0.05,
+      "method": "base",
+      "count": 384,
+      "risk": 0.04732247930860025,
+      "prevalence": 0.40625,
+      "coverage90": 0.8828125,
+      "mean_squared_error": 0.04923170897048116
+    },
+    {
+      "noise": 0.05,
+      "method": "same_angles",
+      "count": 384,
+      "risk": 0.04029592294580212,
+      "prevalence": 0.3489583333333333,
+      "coverage90": 0.8723958333333334,
+      "mean_squared_error": 0.041893801362794136
+    },
+    {
+      "noise": 0.05,
+      "method": "base8",
+      "count": 384,
+      "risk": 0.027760956210277018,
+      "prevalence": 0.19791666666666666,
+      "coverage90": 0.859375,
+      "mean_squared_error": 0.027775119295896666
+    },
+    {
+      "noise": 0.05,
+      "method": "optimized_angles",
+      "count": 384,
+      "risk": 0.027672150797346123,
+      "prevalence": 0.1953125,
+      "coverage90": 0.8958333333333334,
+      "mean_squared_error": 0.02450965740863159
+    },
+    {
+      "noise": 0.05,
+      "method": "neighbor",
+      "count": 384,
+      "risk": 0.020191149408847153,
+      "prevalence": 0.0234375,
+      "coverage90": 0.8958333333333334,
+      "mean_squared_error": 0.019638853104304813
+    },
+    {
+      "noise": 0.05,
+      "method": "near",
+      "count": 384,
+      "risk": 0.004119280983655188,
+      "prevalence": 0.0,
+      "coverage90": 0.8828125,
+      "mean_squared_error": 0.0036848966995231235
+    },
+    {
+      "noise": 0.05,
+      "method": "random",
+      "count": 384,
+      "risk": 0.02981098167491744,
+      "prevalence": 0.2265625,
+      "coverage90": 0.9088541666666666,
+      "mean_squared_error": 0.027512010356136495
+    }
+  ],
+  "seconds": 24.849595292005688,
+  "protocol_hash": "eddc3a97a3c39f0bdead44956a3bffadaaa103d2a8bb2568e0d1b9b9658cb38b",
+  "source_table": {
+    "status": "complete",
+    "completed": 68921,
+    "total": 68921,
+    "order": 41,
+    "coupling": true,
+    "protocol_hash": "eddc3a97a3c39f0bdead44956a3bffadaaa103d2a8bb2568e0d1b9b9658cb38b",
+    "code_hashes": {
+      "cylinders.py": "bbfe90309fade925f62a27fe966bfbcb6bd3253e8c13b0c989f6d398fa8120b5",
+      "physics.py": "5363d0483975716fa91e0f2748ec40f20af2a82dc0eab9e8286599977686a84d",
+      "physics_backend.py": "986d89e9f408be1bbcc28da6073dcd77755c5380d66b475e3bf68190c9dfbbbe",
+      "posterior.py": "48476f7f2f65457775f561d40a28582bae38609186a2cafd5a9b36505e3bce78",
+      "remote.py": "06d2f4f30cb6c6a6420e260dbab563ad902d531617ead78e215095593136839c"
+    },
+    "seed": "deterministic Gauss-Legendre prior integration",
+    "host": "XINAN",
+    "seconds_before_resume": 0,
+    "seconds": 385.4535536999974,
+    "full_wave_solves": 206763,
+    "files": {
+      "diagnostics.npy": "c8687e8dff2a72b3011689c38cce7d8b7e378aab1c7a9fd8f16bc2e5df17664a",
+      "Q.npy": "50e5815206b0df03312b3967e8d78e60f903d3af16d52d0e09846604974779f4",
+      "y.npy": "df5a0ea2f9fed91816bb00af592ddb37c0fdf84b4cea80e81a298c8f9caecb7a",
+      "prior.npz": "978c613887a7699e5d575be1e35c8bf5812a41271cec0b9719a842bd5e235199"
+    }
+  },
+  "split": "validation",
+  "status": "complete"
+}

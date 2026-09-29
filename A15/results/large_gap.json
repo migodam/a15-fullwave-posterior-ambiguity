@@ -1,0 +1,1158 @@
+{
+  "rows": [
+    {
+      "scene": 0,
+      "gap": 0.07216338081377514,
+      "Q": -2.9726206399811437,
+      "Q_uncoupled": -1.1710699629943724,
+      "Q_coupling_effect": -1.8015506769867713,
+      "relative_external_coupling_effect": 1.0586376436875893,
+      "local_task_variance_proxy": 0.026140583213229044
+    },
+    {
+      "scene": 0,
+      "gap": 0.4,
+      "Q": -3.3286352797649363,
+      "Q_uncoupled": -1.1710699629943724,
+      "Q_coupling_effect": -2.157565316770564,
+      "relative_external_coupling_effect": 0.6040646901345735,
+      "local_task_variance_proxy": 0.0005488142792592313
+    },
+    {
+      "scene": 0,
+      "gap": 0.8,
+      "Q": -2.6543063438898353,
+      "Q_uncoupled": -1.1710699629943724,
+      "Q_coupling_effect": -1.483236380895463,
+      "relative_external_coupling_effect": 0.4459889443618462,
+      "local_task_variance_proxy": 0.00015831204066386637
+    },
+    {
+      "scene": 0,
+      "gap": 1.2,
+      "Q": -2.38101871153167,
+      "Q_uncoupled": -1.1710699629943724,
+      "Q_coupling_effect": -1.2099487485372977,
+      "relative_external_coupling_effect": 0.3648436754190204,
+      "local_task_variance_proxy": 0.00016066306670167483
+    },
+    {
+      "scene": 1,
+      "gap": 0.15497931419391123,
+      "Q": -4.3869517613157045,
+      "Q_uncoupled": -0.34507648513921413,
+      "Q_coupling_effect": -4.041875276176491,
+      "relative_external_coupling_effect": 1.0551205235275891,
+      "local_task_variance_proxy": 0.003965851335806039
+    },
+    {
+      "scene": 1,
+      "gap": 0.4,
+      "Q": -2.5247613278112957,
+      "Q_uncoupled": -0.34507648513921413,
+      "Q_coupling_effect": -2.1796848426720814,
+      "relative_external_coupling_effect": 0.7123000379098322,
+      "local_task_variance_proxy": 0.003767972982497201
+    },
+    {
+      "scene": 1,
+      "gap": 0.8,
+      "Q": -1.760950989584967,
+      "Q_uncoupled": -0.34507648513921413,
+      "Q_coupling_effect": -1.415874504445753,
+      "relative_external_coupling_effect": 0.5180584848297307,
+      "local_task_variance_proxy": 0.0021963377556449464
+    },
+    {
+      "scene": 1,
+      "gap": 1.2,
+      "Q": -1.4890607686667112,
+      "Q_uncoupled": -0.34507648513921413,
+      "Q_coupling_effect": -1.1439842835274971,
+      "relative_external_coupling_effect": 0.42015834130442553,
+      "local_task_variance_proxy": 0.0017994184762006806
+    },
+    {
+      "scene": 2,
+      "gap": 0.12331751454150898,
+      "Q": -4.4025595233993835,
+      "Q_uncoupled": -0.5561756092086175,
+      "Q_coupling_effect": -3.846383914190766,
+      "relative_external_coupling_effect": 1.0883153637130458,
+      "local_task_variance_proxy": 0.0004959345588189116
+    },
+    {
+      "scene": 2,
+      "gap": 0.4,
+      "Q": -2.724741957995634,
+      "Q_uncoupled": -0.5561756092086175,
+      "Q_coupling_effect": -2.1685663487870164,
+      "relative_external_coupling_effect": 0.688710003056195,
+      "local_task_variance_proxy": 0.004874368200789174
+    },
+    {
+      "scene": 2,
+      "gap": 0.8,
+      "Q": -1.980836153398815,
+      "Q_uncoupled": -0.5561756092086175,
+      "Q_coupling_effect": -1.4246605441901976,
+      "relative_external_coupling_effect": 0.5036548068802279,
+      "local_task_variance_proxy": 0.0028695926206988567
+    },
+    {
+      "scene": 2,
+      "gap": 1.2,
+      "Q": -1.7131965577130952,
+      "Q_uncoupled": -0.5561756092086175,
+      "Q_coupling_effect": -1.1570209485044778,
+      "relative_external_coupling_effect": 0.4094789505564535,
+      "local_task_variance_proxy": 0.0023156959494109257
+    },
+    {
+      "scene": 3,
+      "gap": 0.08022747174799524,
+      "Q": -3.6659926508119,
+      "Q_uncoupled": -0.9129662796319167,
+      "Q_coupling_effect": -2.7530263711799834,
+      "relative_external_coupling_effect": 1.1231325737714548,
+      "local_task_variance_proxy": 0.0026552543226308015
+    },
+    {
+      "scene": 3,
+      "gap": 0.4,
+      "Q": -3.0751482528480967,
+      "Q_uncoupled": -0.9129662796319167,
+      "Q_coupling_effect": -2.16218197321618,
+      "relative_external_coupling_effect": 0.6518557086330559,
+      "local_task_variance_proxy": 0.005340410065184912
+    },
+    {
+      "scene": 3,
+      "gap": 0.8,
+      "Q": -2.3586249696670865,
+      "Q_uncoupled": -0.9129662796319167,
+      "Q_coupling_effect": -1.4456586900351698,
+      "relative_external_coupling_effect": 0.48017008842432296,
+      "local_task_variance_proxy": 0.0034232238440562563
+    },
+    {
+      "scene": 3,
+      "gap": 1.2,
+      "Q": -2.0929075737668867,
+      "Q_uncoupled": -0.9129662796319167,
+      "Q_coupling_effect": -1.17994129413497,
+      "relative_external_coupling_effect": 0.39188172780653335,
+      "local_task_variance_proxy": 0.002665912774244729
+    },
+    {
+      "scene": 4,
+      "gap": 0.12200330405550493,
+      "Q": -3.723315207479978,
+      "Q_uncoupled": -1.1807601427064354,
+      "Q_coupling_effect": -2.5425550647735427,
+      "relative_external_coupling_effect": 0.9361884628205056,
+      "local_task_variance_proxy": 0.03547180166997493
+    },
+    {
+      "scene": 4,
+      "gap": 0.4,
+      "Q": -3.3407046228867463,
+      "Q_uncoupled": -1.1807601427064354,
+      "Q_coupling_effect": -2.159944480180311,
+      "relative_external_coupling_effect": 0.6095201521880653,
+      "local_task_variance_proxy": 5.15814289358702e-06
+    },
+    {
+      "scene": 4,
+      "gap": 0.8,
+      "Q": -2.6585770138125957,
+      "Q_uncoupled": -1.1807601427064354,
+      "Q_coupling_effect": -1.4778168711061603,
+      "relative_external_coupling_effect": 0.45019852433643104,
+      "local_task_variance_proxy": 5.671779403441536e-05
+    },
+    {
+      "scene": 4,
+      "gap": 1.2,
+      "Q": -2.386798629818083,
+      "Q_uncoupled": -1.1807601427064354,
+      "Q_coupling_effect": -1.2060384871116479,
+      "relative_external_coupling_effect": 0.3682652363375676,
+      "local_task_variance_proxy": 3.153866699112653e-05
+    },
+    {
+      "scene": 5,
+      "gap": 0.04432658772307477,
+      "Q": -2.661379910215524,
+      "Q_uncoupled": -0.9282474315242523,
+      "Q_coupling_effect": -1.7331324786912718,
+      "relative_external_coupling_effect": 1.2557410762343324,
+      "local_task_variance_proxy": 0.004698057595803711
+    },
+    {
+      "scene": 5,
+      "gap": 0.4,
+      "Q": -3.0898183332210656,
+      "Q_uncoupled": -0.9282474315242523,
+      "Q_coupling_effect": -2.1615709016968134,
+      "relative_external_coupling_effect": 0.6506231583476952,
+      "local_task_variance_proxy": 0.005259220158766883
+    },
+    {
+      "scene": 5,
+      "gap": 0.8,
+      "Q": -2.3749435793324527,
+      "Q_uncoupled": -0.9282474315242523,
+      "Q_coupling_effect": -1.4466961478082005,
+      "relative_external_coupling_effect": 0.47946524804714913,
+      "local_task_variance_proxy": 0.0033967484785169494
+    },
+    {
+      "scene": 5,
+      "gap": 1.2,
+      "Q": -2.1093536426891077,
+      "Q_uncoupled": -0.9282474315242523,
+      "Q_coupling_effect": -1.1811062111648556,
+      "relative_external_coupling_effect": 0.3914316515143869,
+      "local_task_variance_proxy": 0.002637677273058507
+    },
+    {
+      "scene": 6,
+      "gap": 0.02170051766093969,
+      "Q": -1.395567409661414,
+      "Q_uncoupled": -0.7488638474120582,
+      "Q_coupling_effect": -0.6467035622493557,
+      "relative_external_coupling_effect": 1.6006042953694584,
+      "local_task_variance_proxy": 0.003191987636179033
+    },
+    {
+      "scene": 6,
+      "gap": 0.4,
+      "Q": -2.9109442799488887,
+      "Q_uncoupled": -0.7488638474120582,
+      "Q_coupling_effect": -2.1620804325368304,
+      "relative_external_coupling_effect": 0.6697186462227559,
+      "local_task_variance_proxy": 0.0056279271903517175
+    },
+    {
+      "scene": 6,
+      "gap": 0.8,
+      "Q": -2.183476673346165,
+      "Q_uncoupled": -0.7488638474120582,
+      "Q_coupling_effect": -1.4346128259341064,
+      "relative_external_coupling_effect": 0.49202324858375623,
+      "local_task_variance_proxy": 0.003414994814195349
+    },
+    {
+      "scene": 6,
+      "gap": 1.2,
+      "Q": -1.9181819126404895,
+      "Q_uncoupled": -0.7488638474120582,
+      "Q_coupling_effect": -1.1693180652284312,
+      "relative_external_coupling_effect": 0.4010127573179843,
+      "local_task_variance_proxy": 0.0027056248184061022
+    },
+    {
+      "scene": 7,
+      "gap": 0.036710822894404554,
+      "Q": -2.247453284050524,
+      "Q_uncoupled": -0.8146252171543086,
+      "Q_coupling_effect": -1.4328280668962154,
+      "relative_external_coupling_effect": 1.3617563099503929,
+      "local_task_variance_proxy": 0.005580109190357083
+    },
+    {
+      "scene": 7,
+      "gap": 0.4,
+      "Q": -2.9774227213041358,
+      "Q_uncoupled": -0.8146252171543086,
+      "Q_coupling_effect": -2.162797504149827,
+      "relative_external_coupling_effect": 0.6620817578537266,
+      "local_task_variance_proxy": 0.005618204011870962
+    },
+    {
+      "scene": 7,
+      "gap": 0.8,
+      "Q": -2.2536351179461045,
+      "Q_uncoupled": -0.8146252171543086,
+      "Q_coupling_effect": -1.4390099007917958,
+      "relative_external_coupling_effect": 0.4868499361995751,
+      "local_task_variance_proxy": 0.0034693728360503844
+    },
+    {
+      "scene": 7,
+      "gap": 1.2,
+      "Q": -1.9880302334779028,
+      "Q_uncoupled": -0.8146252171543086,
+      "Q_coupling_effect": -1.1734050163235943,
+      "relative_external_coupling_effect": 0.3969273649961157,
+      "local_task_variance_proxy": 0.0027331174055040736
+    },
+    {
+      "scene": 8,
+      "gap": 0.04261417839179576,
+      "Q": -1.9689265973000736,
+      "Q_uncoupled": -0.44460830713216504,
+      "Q_coupling_effect": -1.5243182901679084,
+      "relative_external_coupling_effect": 1.5711353657185376,
+      "local_task_variance_proxy": 0.00470751308144492
+    },
+    {
+      "scene": 8,
+      "gap": 0.4,
+      "Q": -2.6145416020915095,
+      "Q_uncoupled": -0.44460830713216504,
+      "Q_coupling_effect": -2.1699332949593444,
+      "relative_external_coupling_effect": 0.7025037458974218,
+      "local_task_variance_proxy": 0.004401454867367819
+    },
+    {
+      "scene": 8,
+      "gap": 0.8,
+      "Q": -1.8631181303954036,
+      "Q_uncoupled": -0.44460830713216504,
+      "Q_coupling_effect": -1.4185098232632387,
+      "relative_external_coupling_effect": 0.5126708456780114,
+      "local_task_variance_proxy": 0.00256890237086599
+    },
+    {
+      "scene": 8,
+      "gap": 1.2,
+      "Q": -1.5947212149340413,
+      "Q_uncoupled": -0.44460830713216504,
+      "Q_coupling_effect": -1.1501129078018764,
+      "relative_external_coupling_effect": 0.4165689732512296,
+      "local_task_variance_proxy": 0.0020892354236221773
+    },
+    {
+      "scene": 9,
+      "gap": 0.14659231431497127,
+      "Q": -4.427892288221404,
+      "Q_uncoupled": -0.7930889489059456,
+      "Q_coupling_effect": -3.634803339315458,
+      "relative_external_coupling_effect": 0.9804216674723618,
+      "local_task_variance_proxy": 0.002608700136899799
+    },
+    {
+      "scene": 9,
+      "gap": 0.4,
+      "Q": -2.954501220279082,
+      "Q_uncoupled": -0.7930889489059456,
+      "Q_coupling_effect": -2.1614122713731367,
+      "relative_external_coupling_effect": 0.6652995078178907,
+      "local_task_variance_proxy": 0.005677238378557491
+    },
+    {
+      "scene": 9,
+      "gap": 0.8,
+      "Q": -2.230397583081355,
+      "Q_uncoupled": -0.7930889489059456,
+      "Q_coupling_effect": -1.4373086341754095,
+      "relative_external_coupling_effect": 0.4892188274253747,
+      "local_task_variance_proxy": 0.003483615160691139
+    },
+    {
+      "scene": 9,
+      "gap": 1.2,
+      "Q": -1.9652923177256942,
+      "Q_uncoupled": -0.7930889489059456,
+      "Q_coupling_effect": -1.1722033688197486,
+      "relative_external_coupling_effect": 0.3989283361274443,
+      "local_task_variance_proxy": 0.0027465991848038313
+    },
+    {
+      "scene": 10,
+      "gap": 0.11399490959856722,
+      "Q": -4.275846464355362,
+      "Q_uncoupled": -0.23614568105263697,
+      "Q_coupling_effect": -4.039700783302725,
+      "relative_external_coupling_effect": 1.2032827980306124,
+      "local_task_variance_proxy": 0.004016224633216547
+    },
+    {
+      "scene": 10,
+      "gap": 0.4,
+      "Q": -2.425046311053195,
+      "Q_uncoupled": -0.23614568105263697,
+      "Q_coupling_effect": -2.188900630000558,
+      "relative_external_coupling_effect": 0.725488007281497,
+      "local_task_variance_proxy": 0.0031902589167685878
+    },
+    {
+      "scene": 10,
+      "gap": 0.8,
+      "Q": -1.6488415809573493,
+      "Q_uncoupled": -0.23614568105263697,
+      "Q_coupling_effect": -1.4126958999047123,
+      "relative_external_coupling_effect": 0.5259188607684636,
+      "local_task_variance_proxy": 0.0018650987053185737
+    },
+    {
+      "scene": 10,
+      "gap": 1.2,
+      "Q": -1.3735466248302344,
+      "Q_uncoupled": -0.23614568105263697,
+      "Q_coupling_effect": -1.1374009437775974,
+      "relative_external_coupling_effect": 0.42591671949746085,
+      "local_task_variance_proxy": 0.0015386034246110557
+    },
+    {
+      "scene": 11,
+      "gap": 0.08277294110685296,
+      "Q": -3.7081616684588528,
+      "Q_uncoupled": -0.9393808669394563,
+      "Q_coupling_effect": -2.768780801519396,
+      "relative_external_coupling_effect": 1.1079845045746795,
+      "local_task_variance_proxy": 0.004968197990399592
+    },
+    {
+      "scene": 11,
+      "gap": 0.4,
+      "Q": -3.1015403510087847,
+      "Q_uncoupled": -0.9393808669394563,
+      "Q_coupling_effect": -2.1621594840693286,
+      "relative_external_coupling_effect": 0.6489869478937581,
+      "local_task_variance_proxy": 0.005166514025384759
+    },
+    {
+      "scene": 11,
+      "gap": 0.8,
+      "Q": -2.3869865015392544,
+      "Q_uncoupled": -0.9393808669394563,
+      "Q_coupling_effect": -1.447605634599798,
+      "relative_external_coupling_effect": 0.4782586627026299,
+      "local_task_variance_proxy": 0.0033565879858973397
+    },
+    {
+      "scene": 11,
+      "gap": 1.2,
+      "Q": -2.1211304576037935,
+      "Q_uncoupled": -0.9393808669394563,
+      "Q_coupling_effect": -1.1817495906643372,
+      "relative_external_coupling_effect": 0.3904218585240702,
+      "local_task_variance_proxy": 0.0026052890815182294
+    },
+    {
+      "scene": 12,
+      "gap": 0.14606194828392904,
+      "Q": -4.452578548644075,
+      "Q_uncoupled": -0.6729151694166026,
+      "Q_coupling_effect": -3.7796633792274723,
+      "relative_external_coupling_effect": 1.0064117576390523,
+      "local_task_variance_proxy": 0.00040564471792880157
+    },
+    {
+      "scene": 12,
+      "gap": 0.4,
+      "Q": -2.8363282916004255,
+      "Q_uncoupled": -0.6729151694166026,
+      "Q_coupling_effect": -2.163413122183823,
+      "relative_external_coupling_effect": 0.6774787910130836,
+      "local_task_variance_proxy": 0.0054289977880611255
+    },
+    {
+      "scene": 12,
+      "gap": 0.8,
+      "Q": -2.1031325812548984,
+      "Q_uncoupled": -0.6729151694166026,
+      "Q_coupling_effect": -1.4302174118382958,
+      "relative_external_coupling_effect": 0.4969410485286406,
+      "local_task_variance_proxy": 0.0032449719602821087
+    },
+    {
+      "scene": 12,
+      "gap": 1.2,
+      "Q": -1.8373714833519321,
+      "Q_uncoupled": -0.6729151694166026,
+      "Q_coupling_effect": -1.1644563139353297,
+      "relative_external_coupling_effect": 0.40469124611702334,
+      "local_task_variance_proxy": 0.002590323286454399
+    },
+    {
+      "scene": 13,
+      "gap": 0.034449936689741896,
+      "Q": -1.966190117991119,
+      "Q_uncoupled": -1.0783238157023252,
+      "Q_coupling_effect": -0.8878663022887938,
+      "relative_external_coupling_effect": 1.1977125664461006,
+      "local_task_variance_proxy": 0.009846470440082987
+    },
+    {
+      "scene": 13,
+      "gap": 0.4,
+      "Q": -3.2284518469857244,
+      "Q_uncoupled": -1.0783238157023252,
+      "Q_coupling_effect": -2.1501280312833995,
+      "relative_external_coupling_effect": 0.594765121444574,
+      "local_task_variance_proxy": 0.005579311146681
+    },
+    {
+      "scene": 13,
+      "gap": 0.8,
+      "Q": -2.572458782945563,
+      "Q_uncoupled": -1.0783238157023252,
+      "Q_coupling_effect": -1.494134967243238,
+      "relative_external_coupling_effect": 0.43815795561493937,
+      "local_task_variance_proxy": 0.003513689033392081
+    },
+    {
+      "scene": 13,
+      "gap": 1.2,
+      "Q": -2.295712029415832,
+      "Q_uncoupled": -1.0783238157023252,
+      "Q_coupling_effect": -1.2173882137135068,
+      "relative_external_coupling_effect": 0.3582880167347296,
+      "local_task_variance_proxy": 0.0031753592996581095
+    },
+    {
+      "scene": 14,
+      "gap": 0.14263508032560393,
+      "Q": -3.9966123285241384,
+      "Q_uncoupled": -1.1693362924856048,
+      "Q_coupling_effect": -2.8272760360385334,
+      "relative_external_coupling_effect": 0.9006304182023434,
+      "local_task_variance_proxy": 0.030109105440777897
+    },
+    {
+      "scene": 14,
+      "gap": 0.4,
+      "Q": -3.3308241189941548,
+      "Q_uncoupled": -1.1693362924856048,
+      "Q_coupling_effect": -2.1614878265085498,
+      "relative_external_coupling_effect": 0.6155195163659289,
+      "local_task_variance_proxy": 0.0004598418340086436
+    },
+    {
+      "scene": 14,
+      "gap": 0.8,
+      "Q": -2.641844437043506,
+      "Q_uncoupled": -1.1693362924856048,
+      "Q_coupling_effect": -1.4725081445579014,
+      "relative_external_coupling_effect": 0.45469089357820014,
+      "local_task_variance_proxy": 0.0005515379180592104
+    },
+    {
+      "scene": 14,
+      "gap": 1.2,
+      "Q": -2.371445684345391,
+      "Q_uncoupled": -1.1693362924856048,
+      "Q_coupling_effect": -1.2021093918597863,
+      "relative_external_coupling_effect": 0.3718838474913702,
+      "local_task_variance_proxy": 0.00039498039900376836
+    },
+    {
+      "scene": 15,
+      "gap": 0.13222044369357838,
+      "Q": -4.444327154830987,
+      "Q_uncoupled": -0.4645966335630901,
+      "Q_coupling_effect": -3.9797305212678964,
+      "relative_external_coupling_effect": 1.087360870087595,
+      "local_task_variance_proxy": 7.687927496206098e-05
+    },
+    {
+      "scene": 15,
+      "gap": 0.4,
+      "Q": -2.6341580760976253,
+      "Q_uncoupled": -0.4645966335630901,
+      "Q_coupling_effect": -2.169561442534535,
+      "relative_external_coupling_effect": 0.7000078248145803,
+      "local_task_variance_proxy": 0.00449158405922861
+    },
+    {
+      "scene": 15,
+      "gap": 0.8,
+      "Q": -1.8841679319864397,
+      "Q_uncoupled": -0.4645966335630901,
+      "Q_coupling_effect": -1.4195712984233495,
+      "relative_external_coupling_effect": 0.5110538343645938,
+      "local_task_variance_proxy": 0.0026245239002246202
+    },
+    {
+      "scene": 15,
+      "gap": 1.2,
+      "Q": -1.6159560906674193,
+      "Q_uncoupled": -0.4645966335630901,
+      "Q_coupling_effect": -1.1513594571043293,
+      "relative_external_coupling_effect": 0.4153018536233064,
+      "local_task_variance_proxy": 0.0021315180474710898
+    },
+    {
+      "scene": 16,
+      "gap": 0.1278531180435149,
+      "Q": -4.326203523222203,
+      "Q_uncoupled": -0.8780625568682632,
+      "Q_coupling_effect": -3.4481409663539395,
+      "relative_external_coupling_effect": 1.003710274745708,
+      "local_task_variance_proxy": 0.01094499704155763
+    },
+    {
+      "scene": 16,
+      "gap": 0.4,
+      "Q": -3.040402779782765,
+      "Q_uncoupled": -0.8780625568682632,
+      "Q_coupling_effect": -2.1623402229145015,
+      "relative_external_coupling_effect": 0.6555242894869275,
+      "local_task_variance_proxy": 0.005497863440876204
+    },
+    {
+      "scene": 16,
+      "gap": 0.8,
+      "Q": -2.3212678860422016,
+      "Q_uncoupled": -0.8780625568682632,
+      "Q_coupling_effect": -1.4432053291739384,
+      "relative_external_coupling_effect": 0.4825818233892,
+      "local_task_variance_proxy": 0.003470915505365309
+    },
+    {
+      "scene": 16,
+      "gap": 1.2,
+      "Q": -2.05564648527428,
+      "Q_uncoupled": -0.8780625568682632,
+      "Q_coupling_effect": -1.177583928406017,
+      "relative_external_coupling_effect": 0.39370709631512757,
+      "local_task_variance_proxy": 0.0027146968270918273
+    },
+    {
+      "scene": 17,
+      "gap": 0.05101311308913867,
+      "Q": -2.6236063087670236,
+      "Q_uncoupled": -1.1752766572024835,
+      "Q_coupling_effect": -1.44832965156454,
+      "relative_external_coupling_effect": 1.1255694975342185,
+      "local_task_variance_proxy": 0.015380913163634938
+    },
+    {
+      "scene": 17,
+      "gap": 0.4,
+      "Q": -3.333433504687201,
+      "Q_uncoupled": -1.1752766572024835,
+      "Q_coupling_effect": -2.158156847484717,
+      "relative_external_coupling_effect": 0.6051786475095562,
+      "local_task_variance_proxy": 0.00032525575540718525
+    },
+    {
+      "scene": 17,
+      "gap": 0.8,
+      "Q": -2.6573358638684326,
+      "Q_uncoupled": -1.1752766572024835,
+      "Q_coupling_effect": -1.482059206665949,
+      "relative_external_coupling_effect": 0.44686037417339775,
+      "local_task_variance_proxy": 6.488640792491607e-05
+    },
+    {
+      "scene": 17,
+      "gap": 1.2,
+      "Q": -2.3843827853517015,
+      "Q_uncoupled": -1.1752766572024835,
+      "Q_coupling_effect": -1.209106128149218,
+      "relative_external_coupling_effect": 0.36555423240696683,
+      "local_task_variance_proxy": 7.297438901313337e-05
+    },
+    {
+      "scene": 18,
+      "gap": 0.07679233094554376,
+      "Q": -3.5514583885639848,
+      "Q_uncoupled": -0.6326420924140681,
+      "Q_coupling_effect": -2.9188162961499167,
+      "relative_external_coupling_effect": 1.2210188586999495,
+      "local_task_variance_proxy": 0.005206782478073433
+    },
+    {
+      "scene": 18,
+      "gap": 0.4,
+      "Q": -2.7959851804751614,
+      "Q_uncoupled": -0.6326420924140681,
+      "Q_coupling_effect": -2.1633430880610933,
+      "relative_external_coupling_effect": 0.6821879926397252,
+      "local_task_variance_proxy": 0.005313224296053435
+    },
+    {
+      "scene": 18,
+      "gap": 0.8,
+      "Q": -2.060390462170736,
+      "Q_uncoupled": -0.6326420924140681,
+      "Q_coupling_effect": -1.4277483697566677,
+      "relative_external_coupling_effect": 0.500069391902561,
+      "local_task_variance_proxy": 0.0031555325546745307
+    },
+    {
+      "scene": 18,
+      "gap": 1.2,
+      "Q": -1.794604474868953,
+      "Q_uncoupled": -0.6326420924140681,
+      "Q_coupling_effect": -1.1619623824548848,
+      "relative_external_coupling_effect": 0.4071516933900912,
+      "local_task_variance_proxy": 0.002527058045006174
+    },
+    {
+      "scene": 19,
+      "gap": 0.04069390116223747,
+      "Q": -2.339834736101733,
+      "Q_uncoupled": -1.1632096755176633,
+      "Q_coupling_effect": -1.1766250605840698,
+      "relative_external_coupling_effect": 1.161530651986848,
+      "local_task_variance_proxy": 0.010332442140311936
+    },
+    {
+      "scene": 19,
+      "gap": 0.4,
+      "Q": -3.3198675859708593,
+      "Q_uncoupled": -1.1632096755176633,
+      "Q_coupling_effect": -2.156657910453196,
+      "relative_external_coupling_effect": 0.602450917570929,
+      "local_task_variance_proxy": 0.0009851545080238845
+    },
+    {
+      "scene": 19,
+      "gap": 0.8,
+      "Q": -2.648156515359127,
+      "Q_uncoupled": -1.1632096755176633,
+      "Q_coupling_effect": -1.4849468398414638,
+      "relative_external_coupling_effect": 0.44470581170841744,
+      "local_task_variance_proxy": 0.0003766031035800687
+    },
+    {
+      "scene": 19,
+      "gap": 1.2,
+      "Q": -2.3743617761473303,
+      "Q_uncoupled": -1.1632096755176633,
+      "Q_coupling_effect": -1.211152100629667,
+      "relative_external_coupling_effect": 0.36378818057755336,
+      "local_task_variance_proxy": 0.00035813121328797347
+    },
+    {
+      "scene": 20,
+      "gap": 0.026527273388916535,
+      "Q": -2.1465700719079797,
+      "Q_uncoupled": -1.1609504783691191,
+      "Q_coupling_effect": -0.9856195935388605,
+      "relative_external_coupling_effect": 1.2396301867954382,
+      "local_task_variance_proxy": 0.001989187899175352
+    },
+    {
+      "scene": 20,
+      "gap": 0.4,
+      "Q": -3.323117507579182,
+      "Q_uncoupled": -1.1609504783691191,
+      "Q_coupling_effect": -2.162167029210063,
+      "relative_external_coupling_effect": 0.617786692598594,
+      "local_task_variance_proxy": 0.0008393551336119064
+    },
+    {
+      "scene": 20,
+      "gap": 0.8,
+      "Q": -2.6313072041760677,
+      "Q_uncoupled": -1.1609504783691191,
+      "Q_coupling_effect": -1.4703567258069485,
+      "relative_external_coupling_effect": 0.45630973506700173,
+      "local_task_variance_proxy": 0.0008507107068264157
+    },
+    {
+      "scene": 20,
+      "gap": 1.2,
+      "Q": -2.3613443513306223,
+      "Q_uncoupled": -1.1609504783691191,
+      "Q_coupling_effect": -1.2003938729615031,
+      "relative_external_coupling_effect": 0.3731374458641489,
+      "local_task_variance_proxy": 0.00062359817467037
+    },
+    {
+      "scene": 21,
+      "gap": 0.03159238169904724,
+      "Q": -2.2634315777297895,
+      "Q_uncoupled": -1.0220459875933265,
+      "Q_coupling_effect": -1.241385590136463,
+      "relative_external_coupling_effect": 1.2834782273358931,
+      "local_task_variance_proxy": 0.0042450138203102275
+    },
+    {
+      "scene": 21,
+      "gap": 0.4,
+      "Q": -3.18487357646641,
+      "Q_uncoupled": -1.0220459875933265,
+      "Q_coupling_effect": -2.1628275888730832,
+      "relative_external_coupling_effect": 0.6390710771886295,
+      "local_task_variance_proxy": 0.004251228271317882
+    },
+    {
+      "scene": 21,
+      "gap": 0.8,
+      "Q": -2.4763542105137883,
+      "Q_uncoupled": -1.0220459875933265,
+      "Q_coupling_effect": -1.4543082229204618,
+      "relative_external_coupling_effect": 0.47142590395397793,
+      "local_task_variance_proxy": 0.0029282365285558686
+    },
+    {
+      "scene": 21,
+      "gap": 1.2,
+      "Q": -2.209561532528174,
+      "Q_uncoupled": -1.0220459875933265,
+      "Q_coupling_effect": -1.1875155449348473,
+      "relative_external_coupling_effect": 0.38507051021874256,
+      "local_task_variance_proxy": 0.00224944216267929
+    },
+    {
+      "scene": 22,
+      "gap": 0.06739012166539214,
+      "Q": -3.2377602267062473,
+      "Q_uncoupled": -1.1312420729795523,
+      "Q_coupling_effect": -2.106518153726695,
+      "relative_external_coupling_effect": 1.0989242784546078,
+      "local_task_variance_proxy": 0.013158475813899877
+    },
+    {
+      "scene": 22,
+      "gap": 0.4,
+      "Q": -3.2939287959998444,
+      "Q_uncoupled": -1.1312420729795523,
+      "Q_coupling_effect": -2.1626867230202924,
+      "relative_external_coupling_effect": 0.6237288542251285,
+      "local_task_variance_proxy": 0.0018299684298325827
+    },
+    {
+      "scene": 22,
+      "gap": 0.8,
+      "Q": -2.5969363262614045,
+      "Q_uncoupled": -1.1312420729795523,
+      "Q_coupling_effect": -1.4656942532818522,
+      "relative_external_coupling_effect": 0.4606368729814886,
+      "local_task_variance_proxy": 0.0015328306966584742
+    },
+    {
+      "scene": 22,
+      "gap": 1.2,
+      "Q": -2.328066495034595,
+      "Q_uncoupled": -1.1312420729795523,
+      "Q_coupling_effect": -1.1968244220550426,
+      "relative_external_coupling_effect": 0.3765960560579102,
+      "local_task_variance_proxy": 0.0011484616141104254
+    },
+    {
+      "scene": 23,
+      "gap": 0.1422637424417821,
+      "Q": -4.1133484157036415,
+      "Q_uncoupled": -1.1331626546715892,
+      "Q_coupling_effect": -2.980185761032052,
+      "relative_external_coupling_effect": 0.9136195445300936,
+      "local_task_variance_proxy": 0.025713930559408134
+    },
+    {
+      "scene": 23,
+      "gap": 0.4,
+      "Q": -3.2953585133093526,
+      "Q_uncoupled": -1.1331626546715892,
+      "Q_coupling_effect": -2.162195858637763,
+      "relative_external_coupling_effect": 0.6236317831039727,
+      "local_task_variance_proxy": 0.0017074497758916229
+    },
+    {
+      "scene": 23,
+      "gap": 0.8,
+      "Q": -2.5993082140587043,
+      "Q_uncoupled": -1.1331626546715892,
+      "Q_coupling_effect": -1.466145559387115,
+      "relative_external_coupling_effect": 0.46065738159385816,
+      "local_task_variance_proxy": 0.0014498566062862007
+    },
+    {
+      "scene": 23,
+      "gap": 1.2,
+      "Q": -2.3304964443296083,
+      "Q_uncoupled": -1.1331626546715892,
+      "Q_coupling_effect": -1.1973337896580192,
+      "relative_external_coupling_effect": 0.37668663215522585,
+      "local_task_variance_proxy": 0.0010818846824857359
+    },
+    {
+      "scene": 24,
+      "gap": 0.15845158218054928,
+      "Q": -4.204731799933489,
+      "Q_uncoupled": -1.120513085336402,
+      "Q_coupling_effect": -3.084218714597087,
+      "relative_external_coupling_effect": 0.8856526588025695,
+      "local_task_variance_proxy": 0.018325365433825184
+    },
+    {
+      "scene": 24,
+      "gap": 0.4,
+      "Q": -3.2827111909070377,
+      "Q_uncoupled": -1.120513085336402,
+      "Q_coupling_effect": -2.162198105570636,
+      "relative_external_coupling_effect": 0.6258809640103471,
+      "local_task_variance_proxy": 0.002084441829691092
+    },
+    {
+      "scene": 24,
+      "gap": 0.8,
+      "Q": -2.5849935828125012,
+      "Q_uncoupled": -1.120513085336402,
+      "Q_coupling_effect": -1.4644804974760992,
+      "relative_external_coupling_effect": 0.462294363155401,
+      "local_task_variance_proxy": 0.0016913667566495088
+    },
+    {
+      "scene": 24,
+      "gap": 1.2,
+      "Q": -2.3165812576284113,
+      "Q_uncoupled": -1.120513085336402,
+      "Q_coupling_effect": -1.1960681722920092,
+      "relative_external_coupling_effect": 0.3780030175042771,
+      "local_task_variance_proxy": 0.001268396725835072
+    },
+    {
+      "scene": 25,
+      "gap": 0.12152953343644851,
+      "Q": -4.172383281280313,
+      "Q_uncoupled": -1.0118055735822513,
+      "Q_coupling_effect": -3.1605777076980615,
+      "relative_external_coupling_effect": 0.9881835811508596,
+      "local_task_variance_proxy": 0.021438104542663
+    },
+    {
+      "scene": 25,
+      "gap": 0.4,
+      "Q": -3.174489818856282,
+      "Q_uncoupled": -1.0118055735822513,
+      "Q_coupling_effect": -2.1626842452740305,
+      "relative_external_coupling_effect": 0.6403969722946353,
+      "local_task_variance_proxy": 0.004397996782971682
+    },
+    {
+      "scene": 25,
+      "gap": 0.8,
+      "Q": -2.4652284384618923,
+      "Q_uncoupled": -1.0118055735822513,
+      "Q_coupling_effect": -1.453422864879641,
+      "relative_external_coupling_effect": 0.47235974280581955,
+      "local_task_variance_proxy": 0.0030019690430371287
+    },
+    {
+      "scene": 25,
+      "gap": 1.2,
+      "Q": -2.198598042646554,
+      "Q_uncoupled": -1.0118055735822513,
+      "Q_coupling_effect": -1.1867924690643026,
+      "relative_external_coupling_effect": 0.38581365109914395,
+      "local_task_variance_proxy": 0.0023089405978201625
+    },
+    {
+      "scene": 26,
+      "gap": 0.09453396572415396,
+      "Q": -3.4888758666223016,
+      "Q_uncoupled": -1.1769301335212512,
+      "Q_coupling_effect": -2.3119457331010507,
+      "relative_external_coupling_effect": 1.0052829404705133,
+      "local_task_variance_proxy": 0.033326491698116446
+    },
+    {
+      "scene": 26,
+      "gap": 0.4,
+      "Q": -3.3375291171686365,
+      "Q_uncoupled": -1.1769301335212512,
+      "Q_coupling_effect": -2.160598983647385,
+      "relative_external_coupling_effect": 0.6123487737493716,
+      "local_task_variance_proxy": 0.00011012408418827998
+    },
+    {
+      "scene": 26,
+      "gap": 0.8,
+      "Q": -2.652359255856906,
+      "Q_uncoupled": -1.1769301335212512,
+      "Q_coupling_effect": -1.4754291223356548,
+      "relative_external_coupling_effect": 0.45235888690766174,
+      "local_task_variance_proxy": 0.00022443621104842616
+    },
+    {
+      "scene": 26,
+      "gap": 1.2,
+      "Q": -2.3812658067082726,
+      "Q_uncoupled": -1.1769301335212512,
+      "Q_coupling_effect": -1.2043356731870214,
+      "relative_external_coupling_effect": 0.37003341508316073,
+      "local_task_variance_proxy": 0.00015022405445333495
+    },
+    {
+      "scene": 27,
+      "gap": 0.08970803653784089,
+      "Q": -3.624686937277794,
+      "Q_uncoupled": -1.1309193117512961,
+      "Q_coupling_effect": -2.493767625526498,
+      "relative_external_coupling_effect": 1.0357258342581164,
+      "local_task_variance_proxy": 0.027613684320748483
+    },
+    {
+      "scene": 27,
+      "gap": 0.4,
+      "Q": -3.2937437464277592,
+      "Q_uncoupled": -1.1309193117512961,
+      "Q_coupling_effect": -2.1628244346764633,
+      "relative_external_coupling_effect": 0.6237132637271405,
+      "local_task_variance_proxy": 0.0018568746268967829
+    },
+    {
+      "scene": 27,
+      "gap": 0.8,
+      "Q": -2.5965211424971613,
+      "Q_uncoupled": -1.1309193117512961,
+      "Q_coupling_effect": -1.4656018307458651,
+      "relative_external_coupling_effect": 0.4606001255393367,
+      "local_task_variance_proxy": 0.0015510831712934995
+    },
+    {
+      "scene": 27,
+      "gap": 1.2,
+      "Q": -2.3276267686303145,
+      "Q_uncoupled": -1.1309193117512961,
+      "Q_coupling_effect": -1.1967074568790184,
+      "relative_external_coupling_effect": 0.37654586398048245,
+      "local_task_variance_proxy": 0.0011632800268613764
+    },
+    {
+      "scene": 28,
+      "gap": 0.14062781864982396,
+      "Q": -4.440735591193278,
+      "Q_uncoupled": -0.7087453548638203,
+      "Q_coupling_effect": -3.731990236329458,
+      "relative_external_coupling_effect": 1.0116399363380328,
+      "local_task_variance_proxy": 0.0015824768001159457
+    },
+    {
+      "scene": 28,
+      "gap": 0.4,
+      "Q": -2.8707659942456334,
+      "Q_uncoupled": -0.7087453548638203,
+      "Q_coupling_effect": -2.1620206393818133,
+      "relative_external_coupling_effect": 0.6742145790017828,
+      "local_task_variance_proxy": 0.005564393114600952
+    },
+    {
+      "scene": 28,
+      "gap": 0.8,
+      "Q": -2.140823266490223,
+      "Q_uncoupled": -0.7087453548638203,
+      "Q_coupling_effect": -1.4320779116264026,
+      "relative_external_coupling_effect": 0.49500268957125687,
+      "local_task_variance_proxy": 0.003347476415605227
+    },
+    {
+      "scene": 28,
+      "gap": 1.2,
+      "Q": -1.8755474812602229,
+      "Q_uncoupled": -0.7087453548638203,
+      "Q_coupling_effect": -1.1668021263964026,
+      "relative_external_coupling_effect": 0.403332799472614,
+      "local_task_variance_proxy": 0.0026616956716193174
+    },
+    {
+      "scene": 29,
+      "gap": 0.0400863430357043,
+      "Q": -2.253682686144848,
+      "Q_uncoupled": -1.1454718725242214,
+      "Q_coupling_effect": -1.1082108136206266,
+      "relative_external_coupling_effect": 1.1652892105748183,
+      "local_task_variance_proxy": 0.011535676118783636
+    },
+    {
+      "scene": 29,
+      "gap": 0.4,
+      "Q": -3.300313572943059,
+      "Q_uncoupled": -1.1454718725242214,
+      "Q_coupling_effect": -2.1548417004188374,
+      "relative_external_coupling_effect": 0.5991349990147233,
+      "local_task_variance_proxy": 0.002156297703175378
+    },
+    {
+      "scene": 29,
+      "gap": 0.8,
+      "Q": -2.633636821941121,
+      "Q_uncoupled": -1.1454718725242214,
+      "Q_coupling_effect": -1.4881649494168996,
+      "relative_external_coupling_effect": 0.44196220405472586,
+      "local_task_variance_proxy": 0.0010674967637119097
+    },
+    {
+      "scene": 29,
+      "gap": 1.2,
+      "Q": -2.358768594320679,
+      "Q_uncoupled": -1.1454718725242214,
+      "Q_coupling_effect": -1.2132967217964574,
+      "relative_external_coupling_effect": 0.36147642877270136,
+      "local_task_variance_proxy": 0.000972713275506739
+    },
+    {
+      "scene": 30,
+      "gap": 0.08592438190857221,
+      "Q": -3.724841866311895,
+      "Q_uncoupled": -0.43987102374314824,
+      "Q_coupling_effect": -3.2849708425687467,
+      "relative_external_coupling_effect": 1.2493986521007168,
+      "local_task_variance_proxy": 0.007471696220528459
+    },
+    {
+      "scene": 30,
+      "gap": 0.4,
+      "Q": -2.609207002132916,
+      "Q_uncoupled": -0.43987102374314824,
+      "Q_coupling_effect": -2.1693359783897677,
+      "relative_external_coupling_effect": 0.703410625818073,
+      "local_task_variance_proxy": 0.004398988425006912
+    },
+    {
+      "scene": 30,
+      "gap": 0.8,
+      "Q": -1.8579126375346113,
+      "Q_uncoupled": -0.43987102374314824,
+      "Q_coupling_effect": -1.418041613791463,
+      "relative_external_coupling_effect": 0.513351244473123,
+      "local_task_variance_proxy": 0.0025664386720763246
+    },
+    {
+      "scene": 30,
+      "gap": 1.2,
+      "Q": -1.58969239452781,
+      "Q_uncoupled": -0.43987102374314824,
+      "Q_coupling_effect": -1.1498213707846618,
+      "relative_external_coupling_effect": 0.41716557787528247,
+      "local_task_variance_proxy": 0.0020876588323150724
+    },
+    {
+      "scene": 31,
+      "gap": 0.07639793577800232,
+      "Q": -3.207211282015622,
+      "Q_uncoupled": -0.23092116805576715,
+      "Q_coupling_effect": -2.976290113959855,
+      "relative_external_coupling_effect": 1.3896161328860746,
+      "local_task_variance_proxy": 0.010115062024474257
+    },
+    {
+      "scene": 31,
+      "gap": 0.4,
+      "Q": -2.4199277952858926,
+      "Q_uncoupled": -0.23092116805576715,
+      "Q_coupling_effect": -2.1890066272301256,
+      "relative_external_coupling_effect": 0.7262905096640284,
+      "local_task_variance_proxy": 0.0031712887689963913
+    },
+    {
+      "scene": 31,
+      "gap": 0.8,
+      "Q": -1.6433436625753033,
+      "Q_uncoupled": -0.23092116805576715,
+      "Q_coupling_effect": -1.412422494519536,
+      "relative_external_coupling_effect": 0.5264466850212115,
+      "local_task_variance_proxy": 0.00185419806063309
+    },
+    {
+      "scene": 31,
+      "gap": 1.2,
+      "Q": -1.3679904460882508,
+      "Q_uncoupled": -0.23092116805576715,
+      "Q_coupling_effect": -1.1370692780324836,
+      "relative_external_coupling_effect": 0.4263417426015973,
+      "local_task_variance_proxy": 0.0015301000472467024
+    }
+  ],
+  "full_forward_solves": 384,
+  "scope": "physical separated-cylinder boundary check, not a new population reference. Domain is infinite Helmholtz background; translated body can lie outside the original VIE unit box."
+}

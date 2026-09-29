@@ -1,0 +1,2092 @@
+{
+  "status": "complete",
+  "templates": [
+    {
+      "name": "r0.10_e8",
+      "radius": 0.1,
+      "epsilon_base": 8.0,
+      "frequencies": [
+        {
+          "k": 3.0,
+          "local_task_variance_proxy": 0.0001909116541870516,
+          "two_mode_response_error_sigma_median": 181.52387055252464,
+          "radiation_contrast_median": 2.5463756632840915,
+          "Q_std_prior_probe": 0.12617076841101021,
+          "sigma": 0.004085468499965258
+        },
+        {
+          "k": 3.225,
+          "local_task_variance_proxy": 0.00020506821483767405,
+          "two_mode_response_error_sigma_median": 164.49007650999582,
+          "radiation_contrast_median": 2.8679906212131376,
+          "Q_std_prior_probe": 0.16659902444256783,
+          "sigma": 0.004501339467085156
+        },
+        {
+          "k": 3.45,
+          "local_task_variance_proxy": 0.0002195906171338368,
+          "two_mode_response_error_sigma_median": 140.16985493220974,
+          "radiation_contrast_median": 3.1265113941884755,
+          "Q_std_prior_probe": 0.18338798587789318,
+          "sigma": 0.0052159851387663285
+        },
+        {
+          "k": 3.675,
+          "local_task_variance_proxy": 0.00021791396925040316,
+          "two_mode_response_error_sigma_median": 116.07936979495496,
+          "radiation_contrast_median": 3.3280018839482657,
+          "Q_std_prior_probe": 0.15576644735302952,
+          "sigma": 0.006175225730301868
+        },
+        {
+          "k": 3.9,
+          "local_task_variance_proxy": 0.000183815339370037,
+          "two_mode_response_error_sigma_median": 102.29747881797334,
+          "radiation_contrast_median": 476656282991.8471,
+          "Q_std_prior_probe": 0.16071350338800516,
+          "sigma": 0.007068848103406724
+        },
+        {
+          "k": 4.125,
+          "local_task_variance_proxy": 0.00027073903322943655,
+          "two_mode_response_error_sigma_median": 88.27313008354177,
+          "radiation_contrast_median": 3.7955736906763717,
+          "Q_std_prior_probe": 0.29502914080730064,
+          "sigma": 0.007574878991096935
+        },
+        {
+          "k": 4.35,
+          "local_task_variance_proxy": 0.0013641722883546913,
+          "two_mode_response_error_sigma_median": 83.88208962703443,
+          "radiation_contrast_median": 3.6031546661460587,
+          "Q_std_prior_probe": 0.43401554075372983,
+          "sigma": 0.007624837441278137
+        },
+        {
+          "k": 4.575,
+          "local_task_variance_proxy": 0.001949226650074198,
+          "two_mode_response_error_sigma_median": 83.88812059318829,
+          "radiation_contrast_median": 3.5757233522235388,
+          "Q_std_prior_probe": 0.5106426208028874,
+          "sigma": 0.007363908081555165
+        },
+        {
+          "k": 4.8,
+          "local_task_variance_proxy": 0.0024739558833449175,
+          "two_mode_response_error_sigma_median": 87.35912564356863,
+          "radiation_contrast_median": 3.483925314810769,
+          "Q_std_prior_probe": 0.5226534791646361,
+          "sigma": 0.00697894182711069
+        },
+        {
+          "k": 5.025,
+          "local_task_variance_proxy": 0.0030309886063589944,
+          "two_mode_response_error_sigma_median": 94.72492691525066,
+          "radiation_contrast_median": 3.331593157989663,
+          "Q_std_prior_probe": 0.4930014711576017,
+          "sigma": 0.006594859480786941
+        },
+        {
+          "k": 5.25,
+          "local_task_variance_proxy": 0.0034346530488218994,
+          "two_mode_response_error_sigma_median": 107.48103224749906,
+          "radiation_contrast_median": 3.1308191864736346,
+          "Q_std_prior_probe": 0.4421594409794719,
+          "sigma": 0.0062684975077538585
+        },
+        {
+          "k": 5.475,
+          "local_task_variance_proxy": 0.0034182566299195164,
+          "two_mode_response_error_sigma_median": 126.93358724985778,
+          "radiation_contrast_median": 2.898492078232398,
+          "Q_std_prior_probe": 0.3789461602561741,
+          "sigma": 0.006011815153738439
+        },
+        {
+          "k": 5.7,
+          "local_task_variance_proxy": 0.002645026619295235,
+          "two_mode_response_error_sigma_median": 153.25956187555508,
+          "radiation_contrast_median": 2.642174268872662,
+          "Q_std_prior_probe": 0.3052091958874211,
+          "sigma": 0.005821483917595551
+        },
+        {
+          "k": 5.925000000000001,
+          "local_task_variance_proxy": 0.0009486666051189228,
+          "two_mode_response_error_sigma_median": 186.10241760574763,
+          "radiation_contrast_median": 2.3300466476841297,
+          "Q_std_prior_probe": 0.2224040525250752,
+          "sigma": 0.005695160035297181
+        },
+        {
+          "k": 6.15,
+          "local_task_variance_proxy": 0.0006229650986857508,
+          "two_mode_response_error_sigma_median": 225.59872324004786,
+          "radiation_contrast_median": 1.8491720094290391,
+          "Q_std_prior_probe": 0.14454898070431063,
+          "sigma": 0.005639455802344797
+        },
+        {
+          "k": 6.375,
+          "local_task_variance_proxy": 0.0022719787335605634,
+          "two_mode_response_error_sigma_median": 272.5994251811127,
+          "radiation_contrast_median": 1.307253781717666,
+          "Q_std_prior_probe": 0.14071481236644917,
+          "sigma": 0.005678237331283171
+        },
+        {
+          "k": 6.6,
+          "local_task_variance_proxy": 0.002489895114302991,
+          "two_mode_response_error_sigma_median": 328.0784590479782,
+          "radiation_contrast_median": 1.495948670596607,
+          "Q_std_prior_probe": 0.24393451792770596,
+          "sigma": 0.005866270891556439
+        },
+        {
+          "k": 6.825,
+          "local_task_variance_proxy": 0.002129750683197688,
+          "two_mode_response_error_sigma_median": 393.5326353175785,
+          "radiation_contrast_median": 2.104384936139419,
+          "Q_std_prior_probe": 0.3708187113003651,
+          "sigma": 0.006292600050036123
+        },
+        {
+          "k": 7.05,
+          "local_task_variance_proxy": 0.001256177692351943,
+          "two_mode_response_error_sigma_median": 477.8031381994435,
+          "radiation_contrast_median": 2.587263326360539,
+          "Q_std_prior_probe": 0.4479223310664912,
+          "sigma": 0.0069931314494328135
+        },
+        {
+          "k": 7.275,
+          "local_task_variance_proxy": 0.0005705216895454415,
+          "two_mode_response_error_sigma_median": 587.5987663889393,
+          "radiation_contrast_median": 2.724494714264385,
+          "Q_std_prior_probe": 0.4116308507345076,
+          "sigma": 0.007776013580973782
+        },
+        {
+          "k": 7.5,
+          "local_task_variance_proxy": 0.0002722528147256444,
+          "two_mode_response_error_sigma_median": 648.4742134369044,
+          "radiation_contrast_median": 2.3947711650371044,
+          "Q_std_prior_probe": 0.26415676666966426,
+          "sigma": 0.008273996040858732
+        },
+        {
+          "k": 7.7250000000000005,
+          "local_task_variance_proxy": 0.00024021091418498127,
+          "two_mode_response_error_sigma_median": 569.9753175138808,
+          "radiation_contrast_median": 1.6636615440256661,
+          "Q_std_prior_probe": 0.13495466877665227,
+          "sigma": 0.008298443900721875
+        },
+        {
+          "k": 7.95,
+          "local_task_variance_proxy": 0.00021939401642821651,
+          "two_mode_response_error_sigma_median": 537.3046453776946,
+          "radiation_contrast_median": 1.383596276430744,
+          "Q_std_prior_probe": 0.12752249628414053,
+          "sigma": 0.00789505048416013
+        },
+        {
+          "k": 8.175,
+          "local_task_variance_proxy": 0.00037504231745642987,
+          "two_mode_response_error_sigma_median": 487.636957115766,
+          "radiation_contrast_median": 1.2924310233371494,
+          "Q_std_prior_probe": 0.13639454469916693,
+          "sigma": 0.007299436767383888
+        },
+        {
+          "k": 8.4,
+          "local_task_variance_proxy": 0.00038609664594883885,
+          "two_mode_response_error_sigma_median": 460.1420974008499,
+          "radiation_contrast_median": 1.2416390550928875,
+          "Q_std_prior_probe": 0.1876725492142431,
+          "sigma": 0.0067198173165732315
+        },
+        {
+          "k": 8.625,
+          "local_task_variance_proxy": 0.00030721144547347657,
+          "two_mode_response_error_sigma_median": 443.53956382021806,
+          "radiation_contrast_median": 1.3110413104771172,
+          "Q_std_prior_probe": 0.2932942880892647,
+          "sigma": 0.0061720623702963455
+        },
+        {
+          "k": 8.850000000000001,
+          "local_task_variance_proxy": 0.00027808919021148407,
+          "two_mode_response_error_sigma_median": 425.04468039110714,
+          "radiation_contrast_median": 1.7082032320979375,
+          "Q_std_prior_probe": 0.4699788972604733,
+          "sigma": 0.005638575987911607
+        },
+        {
+          "k": 9.075,
+          "local_task_variance_proxy": 0.0019398394079244714,
+          "two_mode_response_error_sigma_median": 394.21380815542295,
+          "radiation_contrast_median": 2.205358490685239,
+          "Q_std_prior_probe": 0.7051114437356855,
+          "sigma": 0.005137835302030269
+        },
+        {
+          "k": 9.3,
+          "local_task_variance_proxy": 0.0037139339032495155,
+          "two_mode_response_error_sigma_median": 355.00045464612805,
+          "radiation_contrast_median": 2.7819142454096046,
+          "Q_std_prior_probe": 0.8979195983433451,
+          "sigma": 0.004743046505598464
+        },
+        {
+          "k": 9.525,
+          "local_task_variance_proxy": 0.006062678649833922,
+          "two_mode_response_error_sigma_median": 314.5095221654392,
+          "radiation_contrast_median": 3.350160048114268,
+          "Q_std_prior_probe": 1.0055401094318945,
+          "sigma": 0.00449945847195816
+        },
+        {
+          "k": 9.75,
+          "local_task_variance_proxy": 0.004823486411391798,
+          "two_mode_response_error_sigma_median": 279.17441470865623,
+          "radiation_contrast_median": 3.727118169239135,
+          "Q_std_prior_probe": 1.038854590084572,
+          "sigma": 0.0043509809141222995
+        },
+        {
+          "k": 9.975000000000001,
+          "local_task_variance_proxy": 0.0035383547763766753,
+          "two_mode_response_error_sigma_median": 252.2851634317018,
+          "radiation_contrast_median": 3.7118298285754263,
+          "Q_std_prior_probe": 0.9873080694176803,
+          "sigma": 0.004250813218732457
+        },
+        {
+          "k": 10.2,
+          "local_task_variance_proxy": 0.003969786947910087,
+          "two_mode_response_error_sigma_median": 233.54786572755307,
+          "radiation_contrast_median": 3.245297219584463,
+          "Q_std_prior_probe": 0.8527389293351296,
+          "sigma": 0.004201966489793287
+        },
+        {
+          "k": 10.425,
+          "local_task_variance_proxy": 0.01193045564137896,
+          "two_mode_response_error_sigma_median": 230.9180768283826,
+          "radiation_contrast_median": 2.7194309852108374,
+          "Q_std_prior_probe": 0.6961981830301465,
+          "sigma": 0.004182442412429996
+        },
+        {
+          "k": 10.65,
+          "local_task_variance_proxy": 0.011933184798978307,
+          "two_mode_response_error_sigma_median": 227.8943097990741,
+          "radiation_contrast_median": 2.175185748446826,
+          "Q_std_prior_probe": 0.5797831912836092,
+          "sigma": 0.0041620987678446806
+        },
+        {
+          "k": 10.875,
+          "local_task_variance_proxy": 0.010077418954950122,
+          "two_mode_response_error_sigma_median": 224.4877869447147,
+          "radiation_contrast_median": 95119249164244.5,
+          "Q_std_prior_probe": 0.5322884340438296,
+          "sigma": 0.004129821202649616
+        },
+        {
+          "k": 11.1,
+          "local_task_variance_proxy": 0.007536397238880175,
+          "two_mode_response_error_sigma_median": 287.7041343986248,
+          "radiation_contrast_median": 558702968442110.06,
+          "Q_std_prior_probe": 0.552231723817653,
+          "sigma": 0.0040831293647737065
+        },
+        {
+          "k": 11.325000000000001,
+          "local_task_variance_proxy": 0.005162237593803373,
+          "two_mode_response_error_sigma_median": 427.7477325524119,
+          "radiation_contrast_median": 257129939642185.16,
+          "Q_std_prior_probe": 0.6268183254238269,
+          "sigma": 0.004022181926978835
+        },
+        {
+          "k": 11.55,
+          "local_task_variance_proxy": 0.003185674761535473,
+          "two_mode_response_error_sigma_median": 675.2204585365172,
+          "radiation_contrast_median": 289960412472985.8,
+          "Q_std_prior_probe": 0.7384235838598296,
+          "sigma": 0.003962233568377718
+        },
+        {
+          "k": 11.775,
+          "local_task_variance_proxy": 0.0017167421204719515,
+          "two_mode_response_error_sigma_median": 1158.6301883011195,
+          "radiation_contrast_median": 128952437118827.69,
+          "Q_std_prior_probe": 0.8493238232285715,
+          "sigma": 0.003913553025686016
+        },
+        {
+          "k": 12.0,
+          "local_task_variance_proxy": 0.001111445722231757,
+          "two_mode_response_error_sigma_median": 1923.9078013416456,
+          "radiation_contrast_median": 367695898530638.0,
+          "Q_std_prior_probe": 0.885521138839268,
+          "sigma": 0.003941027770037518
+        }
+      ],
+      "best": {
+        "k": 10.65,
+        "local_task_variance_proxy": 0.011933184798978307,
+        "two_mode_response_error_sigma_median": 227.8943097990741,
+        "radiation_contrast_median": 2.175185748446826,
+        "Q_std_prior_probe": 0.5797831912836092,
+        "sigma": 0.0041620987678446806
+      },
+      "max_residual": 1.605719377031687e-15,
+      "states": 24,
+      "solves": 1230
+    },
+    {
+      "name": "r0.10_e12",
+      "radius": 0.1,
+      "epsilon_base": 12.0,
+      "frequencies": [
+        {
+          "k": 3.0,
+          "local_task_variance_proxy": 0.00029862326618127806,
+          "two_mode_response_error_sigma_median": 130.69194334830902,
+          "radiation_contrast_median": 34617819420586.71,
+          "Q_std_prior_probe": 0.27608825495329414,
+          "sigma": 0.006696043495222078
+        },
+        {
+          "k": 3.225,
+          "local_task_variance_proxy": 0.0002105507762674415,
+          "two_mode_response_error_sigma_median": 105.44293400690304,
+          "radiation_contrast_median": 49136734840068.125,
+          "Q_std_prior_probe": 0.23882027771222386,
+          "sigma": 0.008046815992684855
+        },
+        {
+          "k": 3.45,
+          "local_task_variance_proxy": 0.0003442527069018283,
+          "two_mode_response_error_sigma_median": 93.99792377074215,
+          "radiation_contrast_median": 85355156535220.28,
+          "Q_std_prior_probe": 0.4473841585964578,
+          "sigma": 0.008495939885929499
+        },
+        {
+          "k": 3.675,
+          "local_task_variance_proxy": 0.0022558424829887524,
+          "two_mode_response_error_sigma_median": 93.17312979515071,
+          "radiation_contrast_median": 43517854614375.75,
+          "Q_std_prior_probe": 0.63257129344,
+          "sigma": 0.008040938786502614
+        },
+        {
+          "k": 3.9,
+          "local_task_variance_proxy": 0.003714679851578598,
+          "two_mode_response_error_sigma_median": 97.8406814140579,
+          "radiation_contrast_median": 29846535319227.74,
+          "Q_std_prior_probe": 0.6617866263239919,
+          "sigma": 0.007283390715767232
+        },
+        {
+          "k": 4.125,
+          "local_task_variance_proxy": 0.004693354030151857,
+          "two_mode_response_error_sigma_median": 105.66923229235144,
+          "radiation_contrast_median": 3.2881371860046973,
+          "Q_std_prior_probe": 0.6004734092940395,
+          "sigma": 0.006605967408534573
+        },
+        {
+          "k": 4.35,
+          "local_task_variance_proxy": 0.005530010236117737,
+          "two_mode_response_error_sigma_median": 120.65548741043106,
+          "radiation_contrast_median": 2.978212670687154,
+          "Q_std_prior_probe": 0.5221653956786633,
+          "sigma": 0.006122097394569652
+        },
+        {
+          "k": 4.575,
+          "local_task_variance_proxy": 0.005712493064774314,
+          "two_mode_response_error_sigma_median": 146.6494951588389,
+          "radiation_contrast_median": 2.662378244773014,
+          "Q_std_prior_probe": 0.44222858921474645,
+          "sigma": 0.005791142351419897
+        },
+        {
+          "k": 4.8,
+          "local_task_variance_proxy": 0.004397846379262689,
+          "two_mode_response_error_sigma_median": 187.7316050861391,
+          "radiation_contrast_median": 2.356473891995486,
+          "Q_std_prior_probe": 0.35485116352753054,
+          "sigma": 0.005567254652056355
+        },
+        {
+          "k": 5.025,
+          "local_task_variance_proxy": 0.0011338337985079858,
+          "two_mode_response_error_sigma_median": 247.10731505648602,
+          "radiation_contrast_median": 2.0380122324754018,
+          "Q_std_prior_probe": 0.2534761595293613,
+          "sigma": 0.005427927744771817
+        },
+        {
+          "k": 5.25,
+          "local_task_variance_proxy": 0.0014789629537826986,
+          "two_mode_response_error_sigma_median": 331.5584985304471,
+          "radiation_contrast_median": 1.5773107198099674,
+          "Q_std_prior_probe": 0.16155069780131673,
+          "sigma": 0.005375769560706954
+        },
+        {
+          "k": 5.475,
+          "local_task_variance_proxy": 0.005610881745746058,
+          "two_mode_response_error_sigma_median": 456.33637487783756,
+          "radiation_contrast_median": 1.432625975601327,
+          "Q_std_prior_probe": 0.227557987204211,
+          "sigma": 0.0054551531406523135
+        },
+        {
+          "k": 5.7,
+          "local_task_variance_proxy": 0.004098755398034038,
+          "two_mode_response_error_sigma_median": 649.9797190776859,
+          "radiation_contrast_median": 1.8517340513670189,
+          "Q_std_prior_probe": 0.45764358232963104,
+          "sigma": 0.0058190222480396245
+        },
+        {
+          "k": 5.925000000000001,
+          "local_task_variance_proxy": 0.0018248639432648119,
+          "two_mode_response_error_sigma_median": 984.8399881644425,
+          "radiation_contrast_median": 2.793048374383233,
+          "Q_std_prior_probe": 0.6531940003668144,
+          "sigma": 0.006665914542599724
+        },
+        {
+          "k": 6.15,
+          "local_task_variance_proxy": 0.0005486170262381442,
+          "two_mode_response_error_sigma_median": 1438.170773071338,
+          "radiation_contrast_median": 3.446030290430308,
+          "Q_std_prior_probe": 0.5517887542695329,
+          "sigma": 0.007540179431456172
+        },
+        {
+          "k": 6.375,
+          "local_task_variance_proxy": 0.00041630273543438376,
+          "two_mode_response_error_sigma_median": 1156.791439132679,
+          "radiation_contrast_median": 2.274187044814553,
+          "Q_std_prior_probe": 0.2685747644627106,
+          "sigma": 0.007809127718614255
+        },
+        {
+          "k": 6.6,
+          "local_task_variance_proxy": 0.0004987661689764131,
+          "two_mode_response_error_sigma_median": 912.9548837213401,
+          "radiation_contrast_median": 1.6128902474574351,
+          "Q_std_prior_probe": 0.23436233621077082,
+          "sigma": 0.007078471064925306
+        },
+        {
+          "k": 6.825,
+          "local_task_variance_proxy": 0.0008698497053328776,
+          "two_mode_response_error_sigma_median": 1028.589834329835,
+          "radiation_contrast_median": 933084636761013.2,
+          "Q_std_prior_probe": 0.17880980558376117,
+          "sigma": 0.005810160307244265
+        },
+        {
+          "k": 7.05,
+          "local_task_variance_proxy": 0.0006061907307442413,
+          "two_mode_response_error_sigma_median": 1157.4679851652959,
+          "radiation_contrast_median": 62569639788185.52,
+          "Q_std_prior_probe": 0.32985341494769843,
+          "sigma": 0.004857592994148976
+        },
+        {
+          "k": 7.275,
+          "local_task_variance_proxy": 0.00030386301288069583,
+          "two_mode_response_error_sigma_median": 945.5053350977043,
+          "radiation_contrast_median": 2.511594319667037,
+          "Q_std_prior_probe": 0.6164307530067398,
+          "sigma": 0.004219934457614057
+        },
+        {
+          "k": 7.5,
+          "local_task_variance_proxy": 0.0012357485861476585,
+          "two_mode_response_error_sigma_median": 632.4750205172476,
+          "radiation_contrast_median": 2.695582304020825,
+          "Q_std_prior_probe": 1.0144004098444581,
+          "sigma": 0.0038699247830434277
+        },
+        {
+          "k": 7.7250000000000005,
+          "local_task_variance_proxy": 0.0042491329345991985,
+          "two_mode_response_error_sigma_median": 462.65091316915857,
+          "radiation_contrast_median": 4.182292972776361,
+          "Q_std_prior_probe": 1.2847099648635634,
+          "sigma": 0.0038782151480080723
+        },
+        {
+          "k": 7.95,
+          "local_task_variance_proxy": 0.004457333363458547,
+          "two_mode_response_error_sigma_median": 369.3407253510487,
+          "radiation_contrast_median": 6.3257399396131095,
+          "Q_std_prior_probe": 1.3981363191276943,
+          "sigma": 0.003943951755857362
+        },
+        {
+          "k": 8.175,
+          "local_task_variance_proxy": 0.006813646011108014,
+          "two_mode_response_error_sigma_median": 304.1598365797259,
+          "radiation_contrast_median": 8.06114225922065,
+          "Q_std_prior_probe": 1.3448173342417893,
+          "sigma": 0.004004641392887269
+        },
+        {
+          "k": 8.4,
+          "local_task_variance_proxy": 0.009198311008890273,
+          "two_mode_response_error_sigma_median": 255.93727899483872,
+          "radiation_contrast_median": 6.971219519050859,
+          "Q_std_prior_probe": 1.0983818922905475,
+          "sigma": 0.004077141786480393
+        },
+        {
+          "k": 8.625,
+          "local_task_variance_proxy": 0.02459071494272122,
+          "two_mode_response_error_sigma_median": 226.03412588054607,
+          "radiation_contrast_median": 4.885080885337444,
+          "Q_std_prior_probe": 0.8392737001133878,
+          "sigma": 0.004080782830626085
+        },
+        {
+          "k": 8.850000000000001,
+          "local_task_variance_proxy": 0.021416730952263634,
+          "two_mode_response_error_sigma_median": 216.48979774682874,
+          "radiation_contrast_median": 3.2771654330841917,
+          "Q_std_prior_probe": 0.7063329926569976,
+          "sigma": 0.004027028948351148
+        },
+        {
+          "k": 9.075,
+          "local_task_variance_proxy": 0.016112421221569587,
+          "two_mode_response_error_sigma_median": 204.12463761772923,
+          "radiation_contrast_median": 8061973433953.669,
+          "Q_std_prior_probe": 0.7236634758361913,
+          "sigma": 0.0039351660497504186
+        },
+        {
+          "k": 9.3,
+          "local_task_variance_proxy": 0.008880755139046759,
+          "two_mode_response_error_sigma_median": 267.5956338012213,
+          "radiation_contrast_median": 131617658571262.89,
+          "Q_std_prior_probe": 0.8667299906327933,
+          "sigma": 0.0038014937080687733
+        },
+        {
+          "k": 9.525,
+          "local_task_variance_proxy": 0.003888369985503397,
+          "two_mode_response_error_sigma_median": 477.8317537362181,
+          "radiation_contrast_median": 114703108969516.84,
+          "Q_std_prior_probe": 1.1525663298072377,
+          "sigma": 0.0036355697718854856
+        },
+        {
+          "k": 9.75,
+          "local_task_variance_proxy": 0.0013492572918890635,
+          "two_mode_response_error_sigma_median": 1211.1258962355976,
+          "radiation_contrast_median": 224808054272400.44,
+          "Q_std_prior_probe": 1.371454944784981,
+          "sigma": 0.0035845511263280566
+        },
+        {
+          "k": 9.975000000000001,
+          "local_task_variance_proxy": 0.0007720920817591876,
+          "two_mode_response_error_sigma_median": 2337.3776542480177,
+          "radiation_contrast_median": 548778556006156.6,
+          "Q_std_prior_probe": 1.4033112236875476,
+          "sigma": 0.00372891218454279
+        },
+        {
+          "k": 10.2,
+          "local_task_variance_proxy": 0.000603610360167104,
+          "two_mode_response_error_sigma_median": 1443.3075522176923,
+          "radiation_contrast_median": 231713422778835.7,
+          "Q_std_prior_probe": 1.2965588750687926,
+          "sigma": 0.0039300346914447545
+        },
+        {
+          "k": 10.425,
+          "local_task_variance_proxy": 0.003577227177167381,
+          "two_mode_response_error_sigma_median": 804.9767577814262,
+          "radiation_contrast_median": 1.3476938075251066,
+          "Q_std_prior_probe": 1.092634835323203,
+          "sigma": 0.0044900166629542205
+        },
+        {
+          "k": 10.65,
+          "local_task_variance_proxy": 0.0020142472579801453,
+          "two_mode_response_error_sigma_median": 795.9559601602455,
+          "radiation_contrast_median": 382112016113398.94,
+          "Q_std_prior_probe": 0.8137649996267727,
+          "sigma": 0.006177193123832983
+        },
+        {
+          "k": 10.875,
+          "local_task_variance_proxy": 0.0012355230346872974,
+          "two_mode_response_error_sigma_median": 579.7050483456251,
+          "radiation_contrast_median": 589456403220892.9,
+          "Q_std_prior_probe": 0.7468368901986526,
+          "sigma": 0.006823875306927426
+        },
+        {
+          "k": 11.1,
+          "local_task_variance_proxy": 0.0005137177132103017,
+          "two_mode_response_error_sigma_median": 462.49095946102034,
+          "radiation_contrast_median": 773457830037075.8,
+          "Q_std_prior_probe": 0.7956826400527346,
+          "sigma": 0.006390796879033945
+        },
+        {
+          "k": 11.325000000000001,
+          "local_task_variance_proxy": 0.00041863462055206967,
+          "two_mode_response_error_sigma_median": 384.4094523632296,
+          "radiation_contrast_median": 883384690578252.0,
+          "Q_std_prior_probe": 0.8317709505527745,
+          "sigma": 0.006080526980363847
+        },
+        {
+          "k": 11.55,
+          "local_task_variance_proxy": 0.001306892907039035,
+          "two_mode_response_error_sigma_median": 299.95271214036075,
+          "radiation_contrast_median": 289925520397621.2,
+          "Q_std_prior_probe": 0.8848784719865845,
+          "sigma": 0.005721669374586719
+        },
+        {
+          "k": 11.775,
+          "local_task_variance_proxy": 0.004153641482987163,
+          "two_mode_response_error_sigma_median": 231.8377978028338,
+          "radiation_contrast_median": 370206292898357.94,
+          "Q_std_prior_probe": 0.9551258530346256,
+          "sigma": 0.005326380645874856
+        },
+        {
+          "k": 12.0,
+          "local_task_variance_proxy": 0.006679915021097376,
+          "two_mode_response_error_sigma_median": 203.38622146690562,
+          "radiation_contrast_median": 67848381656379.836,
+          "Q_std_prior_probe": 1.0105333442391145,
+          "sigma": 0.004981379779272042
+        }
+      ],
+      "best": {
+        "k": 8.625,
+        "local_task_variance_proxy": 0.02459071494272122,
+        "two_mode_response_error_sigma_median": 226.03412588054607,
+        "radiation_contrast_median": 4.885080885337444,
+        "Q_std_prior_probe": 0.8392737001133878,
+        "sigma": 0.004080782830626085
+      },
+      "max_residual": 1.876434726960498e-15,
+      "states": 24,
+      "solves": 1230
+    },
+    {
+      "name": "r0.10_e16",
+      "radius": 0.1,
+      "epsilon_base": 16.0,
+      "frequencies": [
+        {
+          "k": 3.0,
+          "local_task_variance_proxy": 0.0003307930034164376,
+          "two_mode_response_error_sigma_median": 97.03197430760534,
+          "radiation_contrast_median": 651788023136036.1,
+          "Q_std_prior_probe": 0.5319140912537753,
+          "sigma": 0.008949999472941825
+        },
+        {
+          "k": 3.225,
+          "local_task_variance_proxy": 0.002938552815753322,
+          "two_mode_response_error_sigma_median": 99.30523324371923,
+          "radiation_contrast_median": 179389005921349.06,
+          "Q_std_prior_probe": 0.7595706401498983,
+          "sigma": 0.00808778318596656
+        },
+        {
+          "k": 3.45,
+          "local_task_variance_proxy": 0.005276431396306498,
+          "two_mode_response_error_sigma_median": 108.59669170303877,
+          "radiation_contrast_median": 306492492086840.6,
+          "Q_std_prior_probe": 0.7293526283382608,
+          "sigma": 0.0069891202043104615
+        },
+        {
+          "k": 3.675,
+          "local_task_variance_proxy": 0.006605431344097318,
+          "two_mode_response_error_sigma_median": 120.1885029797372,
+          "radiation_contrast_median": 3.0373288737024198,
+          "Q_std_prior_probe": 0.6170677198180552,
+          "sigma": 0.006214682756616553
+        },
+        {
+          "k": 3.9,
+          "local_task_variance_proxy": 0.007673957415138678,
+          "two_mode_response_error_sigma_median": 140.71558101979406,
+          "radiation_contrast_median": 2.6614154985826404,
+          "Q_std_prior_probe": 0.5204927543884662,
+          "sigma": 0.0057497253335165015
+        },
+        {
+          "k": 4.125,
+          "local_task_variance_proxy": 0.007431112540177357,
+          "two_mode_response_error_sigma_median": 180.1428112164635,
+          "radiation_contrast_median": 2.3093856011460967,
+          "Q_std_prior_probe": 0.43296266961128327,
+          "sigma": 0.005457514063422386
+        },
+        {
+          "k": 4.35,
+          "local_task_variance_proxy": 0.004226284905278265,
+          "two_mode_response_error_sigma_median": 248.21316587290056,
+          "radiation_contrast_median": 1.9964393655616617,
+          "Q_std_prior_probe": 0.3350162770108321,
+          "sigma": 0.005272974208583357
+        },
+        {
+          "k": 4.575,
+          "local_task_variance_proxy": 0.0016939804223301534,
+          "two_mode_response_error_sigma_median": 359.51074048590857,
+          "radiation_contrast_median": 1.6431029264180763,
+          "Q_std_prior_probe": 0.2201040717688572,
+          "sigma": 0.005177937327844542
+        },
+        {
+          "k": 4.8,
+          "local_task_variance_proxy": 0.008968494160976611,
+          "two_mode_response_error_sigma_median": 553.011752634449,
+          "radiation_contrast_median": 1.269339877891977,
+          "Q_std_prior_probe": 0.21903827156973626,
+          "sigma": 0.005202347712202729
+        },
+        {
+          "k": 5.025,
+          "local_task_variance_proxy": 0.006404201017121506,
+          "two_mode_response_error_sigma_median": 937.7048894759649,
+          "radiation_contrast_median": 1.7763478312292948,
+          "Q_std_prior_probe": 0.5203149738716596,
+          "sigma": 0.005521922428543827
+        },
+        {
+          "k": 5.25,
+          "local_task_variance_proxy": 0.0019241937649480175,
+          "two_mode_response_error_sigma_median": 1900.3371928181448,
+          "radiation_contrast_median": 3.214355506937659,
+          "Q_std_prior_probe": 0.8019659618031042,
+          "sigma": 0.006406810659534114
+        },
+        {
+          "k": 5.475,
+          "local_task_variance_proxy": 0.0007526572408142785,
+          "two_mode_response_error_sigma_median": 1898.0325699099787,
+          "radiation_contrast_median": 3.5635122621609727,
+          "Q_std_prior_probe": 0.5460973474730235,
+          "sigma": 0.007015489417297404
+        },
+        {
+          "k": 5.7,
+          "local_task_variance_proxy": 0.0008058946578930013,
+          "two_mode_response_error_sigma_median": 1390.7610668570408,
+          "radiation_contrast_median": 1.5671103574488985,
+          "Q_std_prior_probe": 0.36665489351641223,
+          "sigma": 0.006807644335171797
+        },
+        {
+          "k": 5.925000000000001,
+          "local_task_variance_proxy": 0.0014202249383241446,
+          "two_mode_response_error_sigma_median": 1884.104543493682,
+          "radiation_contrast_median": 475302994003623.2,
+          "Q_std_prior_probe": 0.2297319035388324,
+          "sigma": 0.0050538735591279605
+        },
+        {
+          "k": 6.15,
+          "local_task_variance_proxy": 0.0007887953350949921,
+          "two_mode_response_error_sigma_median": 2169.8618818063132,
+          "radiation_contrast_median": 286093184681174.5,
+          "Q_std_prior_probe": 0.3991178381894137,
+          "sigma": 0.003986557059724448
+        },
+        {
+          "k": 6.375,
+          "local_task_variance_proxy": 0.00031155791159308185,
+          "two_mode_response_error_sigma_median": 1360.2060752231216,
+          "radiation_contrast_median": 3.1725447328457954,
+          "Q_std_prior_probe": 0.7650272482838231,
+          "sigma": 0.0036648621623580407
+        },
+        {
+          "k": 6.6,
+          "local_task_variance_proxy": 0.001944090855627521,
+          "two_mode_response_error_sigma_median": 573.7498160187553,
+          "radiation_contrast_median": 7.287815778505344,
+          "Q_std_prior_probe": 1.1514408337088287,
+          "sigma": 0.0038767254692143823
+        },
+        {
+          "k": 6.825,
+          "local_task_variance_proxy": 0.00687946676806344,
+          "two_mode_response_error_sigma_median": 398.45956167140434,
+          "radiation_contrast_median": 7.212759721796759,
+          "Q_std_prior_probe": 1.2973855002672618,
+          "sigma": 0.004098781371033853
+        },
+        {
+          "k": 7.05,
+          "local_task_variance_proxy": 0.006600765913942735,
+          "two_mode_response_error_sigma_median": 315.7144741716173,
+          "radiation_contrast_median": 13.92950015244072,
+          "Q_std_prior_probe": 1.3004718063148821,
+          "sigma": 0.004215440494765518
+        },
+        {
+          "k": 7.275,
+          "local_task_variance_proxy": 0.006187341228754197,
+          "two_mode_response_error_sigma_median": 257.8385082324445,
+          "radiation_contrast_median": 9.064990098155645,
+          "Q_std_prior_probe": 1.0390442739643535,
+          "sigma": 0.004307836668808288
+        },
+        {
+          "k": 7.5,
+          "local_task_variance_proxy": 0.01038999663708004,
+          "two_mode_response_error_sigma_median": 223.50297267998712,
+          "radiation_contrast_median": 7.18680541055683,
+          "Q_std_prior_probe": 0.7138031920996436,
+          "sigma": 0.004248796438020793
+        },
+        {
+          "k": 7.7250000000000005,
+          "local_task_variance_proxy": 0.02183656284882965,
+          "two_mode_response_error_sigma_median": 208.85517498820423,
+          "radiation_contrast_median": 4.0698120929501895,
+          "Q_std_prior_probe": 0.5473093279473802,
+          "sigma": 0.004136238557278164
+        },
+        {
+          "k": 7.95,
+          "local_task_variance_proxy": 0.017331581898338763,
+          "two_mode_response_error_sigma_median": 194.3437641573634,
+          "radiation_contrast_median": 6162093008439.767,
+          "Q_std_prior_probe": 0.610098806985606,
+          "sigma": 0.0039964682166722
+        },
+        {
+          "k": 8.175,
+          "local_task_variance_proxy": 0.011551942715007544,
+          "two_mode_response_error_sigma_median": 237.983954995912,
+          "radiation_contrast_median": 230572139361854.5,
+          "Q_std_prior_probe": 0.8803200429194576,
+          "sigma": 0.0038053551890925292
+        },
+        {
+          "k": 8.4,
+          "local_task_variance_proxy": 0.004001934549215115,
+          "two_mode_response_error_sigma_median": 467.4882300809507,
+          "radiation_contrast_median": 117151908345168.7,
+          "Q_std_prior_probe": 1.3746580939871735,
+          "sigma": 0.0037019078232789883
+        },
+        {
+          "k": 8.625,
+          "local_task_variance_proxy": 0.0008563530364020641,
+          "two_mode_response_error_sigma_median": 2492.3863111416413,
+          "radiation_contrast_median": 352665392014417.5,
+          "Q_std_prior_probe": 1.542403496833267,
+          "sigma": 0.0037979868852272966
+        },
+        {
+          "k": 8.850000000000001,
+          "local_task_variance_proxy": 0.0008999812021692465,
+          "two_mode_response_error_sigma_median": 970.9543326271057,
+          "radiation_contrast_median": 450046032346104.6,
+          "Q_std_prior_probe": 1.452604247831862,
+          "sigma": 0.0039007904612863922
+        },
+        {
+          "k": 9.075,
+          "local_task_variance_proxy": 0.002109752223379685,
+          "two_mode_response_error_sigma_median": 823.1051472402455,
+          "radiation_contrast_median": 154758576673169.75,
+          "Q_std_prior_probe": 1.2821278407907155,
+          "sigma": 0.004271941416539042
+        },
+        {
+          "k": 9.3,
+          "local_task_variance_proxy": 0.00244468200950001,
+          "two_mode_response_error_sigma_median": 1075.2308736259938,
+          "radiation_contrast_median": 435033927797937.2,
+          "Q_std_prior_probe": 0.949463250112858,
+          "sigma": 0.006708230428035409
+        },
+        {
+          "k": 9.525,
+          "local_task_variance_proxy": 0.0007613517710831101,
+          "two_mode_response_error_sigma_median": 564.4406000385495,
+          "radiation_contrast_median": 107164192673392.89,
+          "Q_std_prior_probe": 0.8313166612656208,
+          "sigma": 0.006884061001742443
+        },
+        {
+          "k": 9.75,
+          "local_task_variance_proxy": 0.00027200848994852523,
+          "two_mode_response_error_sigma_median": 461.5899269529395,
+          "radiation_contrast_median": 780649182471396.2,
+          "Q_std_prior_probe": 0.9022793323802006,
+          "sigma": 0.005998476915906118
+        },
+        {
+          "k": 9.975000000000001,
+          "local_task_variance_proxy": 0.0005689199212622894,
+          "two_mode_response_error_sigma_median": 384.62940597985306,
+          "radiation_contrast_median": 548203744348926.06,
+          "Q_std_prior_probe": 0.8785646879409236,
+          "sigma": 0.005369436325575734
+        },
+        {
+          "k": 10.2,
+          "local_task_variance_proxy": 0.0029699252031742856,
+          "two_mode_response_error_sigma_median": 270.42525941895553,
+          "radiation_contrast_median": 540213220875316.56,
+          "Q_std_prior_probe": 0.9874933996804206,
+          "sigma": 0.004909933440057516
+        },
+        {
+          "k": 10.425,
+          "local_task_variance_proxy": 0.009706420741981575,
+          "two_mode_response_error_sigma_median": 220.02526699709676,
+          "radiation_contrast_median": 326436321683815.4,
+          "Q_std_prior_probe": 1.0607546995051411,
+          "sigma": 0.0046081486686907255
+        },
+        {
+          "k": 10.65,
+          "local_task_variance_proxy": 0.0068583037940069735,
+          "two_mode_response_error_sigma_median": 221.3907588995489,
+          "radiation_contrast_median": 214839092187227.06,
+          "Q_std_prior_probe": 1.1160968216362086,
+          "sigma": 0.004440458120773226
+        },
+        {
+          "k": 10.875,
+          "local_task_variance_proxy": 0.01675854349406402,
+          "two_mode_response_error_sigma_median": 230.2583591495108,
+          "radiation_contrast_median": 174041379796455.47,
+          "Q_std_prior_probe": 1.0249719451766328,
+          "sigma": 0.004140107897286456
+        },
+        {
+          "k": 11.1,
+          "local_task_variance_proxy": 0.012445358859056059,
+          "two_mode_response_error_sigma_median": 251.44271450516786,
+          "radiation_contrast_median": 307086864316269.8,
+          "Q_std_prior_probe": 0.8426930098393347,
+          "sigma": 0.0038943714683401837
+        },
+        {
+          "k": 11.325000000000001,
+          "local_task_variance_proxy": 0.01174813126442359,
+          "two_mode_response_error_sigma_median": 254.44880951911642,
+          "radiation_contrast_median": 328454337250302.56,
+          "Q_std_prior_probe": 1.042454684246752,
+          "sigma": 0.0038744268546005703
+        },
+        {
+          "k": 11.55,
+          "local_task_variance_proxy": 0.005644692909776321,
+          "two_mode_response_error_sigma_median": 251.99274840534636,
+          "radiation_contrast_median": 196604088029498.0,
+          "Q_std_prior_probe": 1.0753836053398715,
+          "sigma": 0.0037964928822938316
+        },
+        {
+          "k": 11.775,
+          "local_task_variance_proxy": 0.0037381327682411147,
+          "two_mode_response_error_sigma_median": 361.19066248395967,
+          "radiation_contrast_median": 128805782757777.58,
+          "Q_std_prior_probe": 1.1543699302222157,
+          "sigma": 0.0037818195598835116
+        },
+        {
+          "k": 12.0,
+          "local_task_variance_proxy": 0.0037649755183555983,
+          "two_mode_response_error_sigma_median": 487.8532231492089,
+          "radiation_contrast_median": 304250431430602.06,
+          "Q_std_prior_probe": 0.9649760663605801,
+          "sigma": 0.003547664636595433
+        }
+      ],
+      "best": {
+        "k": 7.7250000000000005,
+        "local_task_variance_proxy": 0.02183656284882965,
+        "two_mode_response_error_sigma_median": 208.85517498820423,
+        "radiation_contrast_median": 4.0698120929501895,
+        "Q_std_prior_probe": 0.5473093279473802,
+        "sigma": 0.004136238557278164
+      },
+      "max_residual": 1.2086571876082521e-15,
+      "states": 24,
+      "solves": 1230
+    },
+    {
+      "name": "r0.12_e8",
+      "radius": 0.12,
+      "epsilon_base": 8.0,
+      "frequencies": [
+        {
+          "k": 3.0,
+          "local_task_variance_proxy": 0.0002572682538477685,
+          "two_mode_response_error_sigma_median": 129.9968507643985,
+          "radiation_contrast_median": 221838101700.56055,
+          "Q_std_prior_probe": 0.1727183567301979,
+          "sigma": 0.006017161619102265
+        },
+        {
+          "k": 3.225,
+          "local_task_variance_proxy": 0.0002524576879392306,
+          "two_mode_response_error_sigma_median": 107.0832146102304,
+          "radiation_contrast_median": 6478893942074.715,
+          "Q_std_prior_probe": 0.13193265413933333,
+          "sigma": 0.0072951450143001586
+        },
+        {
+          "k": 3.45,
+          "local_task_variance_proxy": 0.0002292830723708468,
+          "two_mode_response_error_sigma_median": 91.49165887466471,
+          "radiation_contrast_median": 24422344442010.617,
+          "Q_std_prior_probe": 0.23436222104597454,
+          "sigma": 0.008185461252863464
+        },
+        {
+          "k": 3.675,
+          "local_task_variance_proxy": 0.0012124922506840214,
+          "two_mode_response_error_sigma_median": 82.19653937184853,
+          "radiation_contrast_median": 3.446573407211985,
+          "Q_std_prior_probe": 0.40209448599273995,
+          "sigma": 0.008335219279094952
+        },
+        {
+          "k": 3.9,
+          "local_task_variance_proxy": 0.002013396274564738,
+          "two_mode_response_error_sigma_median": 82.97155160013409,
+          "radiation_contrast_median": 3.404731465290599,
+          "Q_std_prior_probe": 0.4874528621687501,
+          "sigma": 0.007971921743947763
+        },
+        {
+          "k": 4.125,
+          "local_task_variance_proxy": 0.0026419070794745686,
+          "two_mode_response_error_sigma_median": 89.07965343992815,
+          "radiation_contrast_median": 3.279554347641072,
+          "Q_std_prior_probe": 0.48845421449579507,
+          "sigma": 0.007454524408108093
+        },
+        {
+          "k": 4.35,
+          "local_task_variance_proxy": 0.0031905655762848443,
+          "two_mode_response_error_sigma_median": 101.84996500245414,
+          "radiation_contrast_median": 3.082833535475379,
+          "Q_std_prior_probe": 0.4441705068402062,
+          "sigma": 0.0069867326600117005
+        },
+        {
+          "k": 4.575,
+          "local_task_variance_proxy": 0.003298801406507607,
+          "two_mode_response_error_sigma_median": 123.76717402288261,
+          "radiation_contrast_median": 2.837939032711505,
+          "Q_std_prior_probe": 0.3781601409005219,
+          "sigma": 0.006627380775855902
+        },
+        {
+          "k": 4.8,
+          "local_task_variance_proxy": 0.0024398238432559514,
+          "two_mode_response_error_sigma_median": 155.88321278524592,
+          "radiation_contrast_median": 2.559054544570657,
+          "Q_std_prior_probe": 0.2957751514516089,
+          "sigma": 0.00637574045690268
+        },
+        {
+          "k": 5.025,
+          "local_task_variance_proxy": 0.00046972294341302625,
+          "two_mode_response_error_sigma_median": 198.16109995149836,
+          "radiation_contrast_median": 2.193840880756441,
+          "Q_std_prior_probe": 0.19887297434190085,
+          "sigma": 0.006227540446917879
+        },
+        {
+          "k": 5.25,
+          "local_task_variance_proxy": 0.001083477445371567,
+          "two_mode_response_error_sigma_median": 251.53659014051487,
+          "radiation_contrast_median": 1.5546649945941406,
+          "Q_std_prior_probe": 0.12088241989248659,
+          "sigma": 0.0061993681033586795
+        },
+        {
+          "k": 5.475,
+          "local_task_variance_proxy": 0.0028394809497604254,
+          "two_mode_response_error_sigma_median": 318.15199781741296,
+          "radiation_contrast_median": 1.5317399846839916,
+          "Q_std_prior_probe": 0.19180716949644055,
+          "sigma": 0.006353698775078465
+        },
+        {
+          "k": 5.7,
+          "local_task_variance_proxy": 0.0021701536028459114,
+          "two_mode_response_error_sigma_median": 399.99323861826196,
+          "radiation_contrast_median": 2.0275196917968237,
+          "Q_std_prior_probe": 0.3498163961725634,
+          "sigma": 0.006831222034328556
+        },
+        {
+          "k": 5.925000000000001,
+          "local_task_variance_proxy": 0.0011608063890933956,
+          "two_mode_response_error_sigma_median": 506.15388777766015,
+          "radiation_contrast_median": 2.6184637523720875,
+          "Q_std_prior_probe": 0.4491476734325141,
+          "sigma": 0.007721724628346624
+        },
+        {
+          "k": 6.15,
+          "local_task_variance_proxy": 0.0004666390853650892,
+          "two_mode_response_error_sigma_median": 627.9132790645425,
+          "radiation_contrast_median": 2.7077956982919003,
+          "Q_std_prior_probe": 0.367759070085465,
+          "sigma": 0.008635766361488568
+        },
+        {
+          "k": 6.375,
+          "local_task_variance_proxy": 0.0002874676239800969,
+          "two_mode_response_error_sigma_median": 623.4110406847028,
+          "radiation_contrast_median": 2.056512734166835,
+          "Q_std_prior_probe": 0.17042590005500563,
+          "sigma": 0.008977539147043374
+        },
+        {
+          "k": 6.6,
+          "local_task_variance_proxy": 0.0002649868386865253,
+          "two_mode_response_error_sigma_median": 553.3631574077805,
+          "radiation_contrast_median": 1.3769796848464915,
+          "Q_std_prior_probe": 0.12781649393603955,
+          "sigma": 0.008592251885482734
+        },
+        {
+          "k": 6.825,
+          "local_task_variance_proxy": 0.0004439179500825735,
+          "two_mode_response_error_sigma_median": 502.43448893066056,
+          "radiation_contrast_median": 1.3742998948824507,
+          "Q_std_prior_probe": 0.12168599807664089,
+          "sigma": 0.007791802262576225
+        },
+        {
+          "k": 7.05,
+          "local_task_variance_proxy": 0.0005583342967629255,
+          "two_mode_response_error_sigma_median": 484.93206624067113,
+          "radiation_contrast_median": 1.2167375494309893,
+          "Q_std_prior_probe": 0.16437198894266497,
+          "sigma": 0.007029115318457089
+        },
+        {
+          "k": 7.275,
+          "local_task_variance_proxy": 0.00035958794267230206,
+          "two_mode_response_error_sigma_median": 477.2882483240322,
+          "radiation_contrast_median": 1.6821523513488614,
+          "Q_std_prior_probe": 0.28717060930049176,
+          "sigma": 0.006344818925838502
+        },
+        {
+          "k": 7.5,
+          "local_task_variance_proxy": 0.00035673461479498753,
+          "two_mode_response_error_sigma_median": 451.0679442393054,
+          "radiation_contrast_median": 1.782409593521617,
+          "Q_std_prior_probe": 0.4995392501960535,
+          "sigma": 0.005687440552618767
+        },
+        {
+          "k": 7.7250000000000005,
+          "local_task_variance_proxy": 0.002103107739292217,
+          "two_mode_response_error_sigma_median": 392.3591143246374,
+          "radiation_contrast_median": 2.332491572146222,
+          "Q_std_prior_probe": 0.7645306698932469,
+          "sigma": 0.005102169223124242
+        },
+        {
+          "k": 7.95,
+          "local_task_variance_proxy": 0.004101608223642429,
+          "two_mode_response_error_sigma_median": 333.68423609290284,
+          "radiation_contrast_median": 2.897252540709601,
+          "Q_std_prior_probe": 0.9376711460389789,
+          "sigma": 0.0047281256539500926
+        },
+        {
+          "k": 8.175,
+          "local_task_variance_proxy": 0.00359259710325154,
+          "two_mode_response_error_sigma_median": 286.9400452289699,
+          "radiation_contrast_median": 3.274602385522857,
+          "Q_std_prior_probe": 1.0002235744008674,
+          "sigma": 0.004531801257234484
+        },
+        {
+          "k": 8.4,
+          "local_task_variance_proxy": 0.004820204374828942,
+          "two_mode_response_error_sigma_median": 254.47638970609978,
+          "radiation_contrast_median": 3.2362828463715942,
+          "Q_std_prior_probe": 0.943890697515768,
+          "sigma": 0.004419729802905168
+        },
+        {
+          "k": 8.625,
+          "local_task_variance_proxy": 0.007869410580838326,
+          "two_mode_response_error_sigma_median": 235.65532423475,
+          "radiation_contrast_median": 2.793333655500388,
+          "Q_std_prior_probe": 0.7862876416681667,
+          "sigma": 0.0043810682041941626
+        },
+        {
+          "k": 8.850000000000001,
+          "local_task_variance_proxy": 0.010705856529803185,
+          "two_mode_response_error_sigma_median": 235.02992768993673,
+          "radiation_contrast_median": 2.24354132561931,
+          "Q_std_prior_probe": 0.634875466437748,
+          "sigma": 0.004364894098944695
+        },
+        {
+          "k": 9.075,
+          "local_task_variance_proxy": 0.008444474327645063,
+          "two_mode_response_error_sigma_median": 233.91113360244626,
+          "radiation_contrast_median": 112497519567773.89,
+          "Q_std_prior_probe": 0.5713650724855797,
+          "sigma": 0.004328717742688583
+        },
+        {
+          "k": 9.3,
+          "local_task_variance_proxy": 0.005571530504455769,
+          "two_mode_response_error_sigma_median": 331.44234108650807,
+          "radiation_contrast_median": 156269005892137.97,
+          "Q_std_prior_probe": 0.6064236616429561,
+          "sigma": 0.004261977317052486
+        },
+        {
+          "k": 9.525,
+          "local_task_variance_proxy": 0.0032171707501230944,
+          "two_mode_response_error_sigma_median": 559.6160361191783,
+          "radiation_contrast_median": 129504828850310.22,
+          "Q_std_prior_probe": 0.7181896105175907,
+          "sigma": 0.004164206064131419
+        },
+        {
+          "k": 9.75,
+          "local_task_variance_proxy": 0.00160028372605328,
+          "two_mode_response_error_sigma_median": 1029.0419210639304,
+          "radiation_contrast_median": 137650047732372.83,
+          "Q_std_prior_probe": 0.8536181810563719,
+          "sigma": 0.004077675675942199
+        },
+        {
+          "k": 9.975000000000001,
+          "local_task_variance_proxy": 0.0008427659020771909,
+          "two_mode_response_error_sigma_median": 1879.927897632925,
+          "radiation_contrast_median": 631379684916424.4,
+          "Q_std_prior_probe": 0.9330014389955038,
+          "sigma": 0.004075253405500535
+        },
+        {
+          "k": 10.2,
+          "local_task_variance_proxy": 0.00066553916169192,
+          "two_mode_response_error_sigma_median": 1354.3781203100864,
+          "radiation_contrast_median": 429848421101908.06,
+          "Q_std_prior_probe": 0.876768990740524,
+          "sigma": 0.004222355020962496
+        },
+        {
+          "k": 10.425,
+          "local_task_variance_proxy": 0.000845979029650808,
+          "two_mode_response_error_sigma_median": 1183.9767777783359,
+          "radiation_contrast_median": 2.0477184677315,
+          "Q_std_prior_probe": 0.7239771187482793,
+          "sigma": 0.004563261295513
+        },
+        {
+          "k": 10.65,
+          "local_task_variance_proxy": 0.0008823229446827096,
+          "two_mode_response_error_sigma_median": 773.9515562329917,
+          "radiation_contrast_median": 108767143147902.78,
+          "Q_std_prior_probe": 0.5462718462384046,
+          "sigma": 0.005134555439845701
+        },
+        {
+          "k": 10.875,
+          "local_task_variance_proxy": 0.0007281104076126469,
+          "two_mode_response_error_sigma_median": 669.7465321517725,
+          "radiation_contrast_median": 325331751202929.2,
+          "Q_std_prior_probe": 0.48831839694978246,
+          "sigma": 0.005634242028928447
+        },
+        {
+          "k": 11.1,
+          "local_task_variance_proxy": 0.0005492525245671903,
+          "two_mode_response_error_sigma_median": 542.7295905398258,
+          "radiation_contrast_median": 825094088291630.8,
+          "Q_std_prior_probe": 0.5381828013422124,
+          "sigma": 0.0059689891998927535
+        },
+        {
+          "k": 11.325000000000001,
+          "local_task_variance_proxy": 0.00048631062627900207,
+          "two_mode_response_error_sigma_median": 450.62809275391845,
+          "radiation_contrast_median": 752587454982860.9,
+          "Q_std_prior_probe": 0.6054664310560893,
+          "sigma": 0.006144441822315328
+        },
+        {
+          "k": 11.55,
+          "local_task_variance_proxy": 0.0006845088515729975,
+          "two_mode_response_error_sigma_median": 367.7533382518029,
+          "radiation_contrast_median": 877114611605986.6,
+          "Q_std_prior_probe": 0.6710738774816765,
+          "sigma": 0.006206763870676209
+        },
+        {
+          "k": 11.775,
+          "local_task_variance_proxy": 0.00135549524970754,
+          "two_mode_response_error_sigma_median": 282.06230852551096,
+          "radiation_contrast_median": 111883441910635.38,
+          "Q_std_prior_probe": 0.7420345964654878,
+          "sigma": 0.006182677673109835
+        },
+        {
+          "k": 12.0,
+          "local_task_variance_proxy": 0.0025374072447095536,
+          "two_mode_response_error_sigma_median": 217.0634928848004,
+          "radiation_contrast_median": 382719570373071.0,
+          "Q_std_prior_probe": 0.8038745271835733,
+          "sigma": 0.006056136228675845
+        }
+      ],
+      "best": {
+        "k": 8.850000000000001,
+        "local_task_variance_proxy": 0.010705856529803185,
+        "two_mode_response_error_sigma_median": 235.02992768993673,
+        "radiation_contrast_median": 2.24354132561931,
+        "Q_std_prior_probe": 0.634875466437748,
+        "sigma": 0.004364894098944695
+      },
+      "max_residual": 1.032006875806699e-15,
+      "states": 24,
+      "solves": 1230
+    },
+    {
+      "name": "r0.12_e12",
+      "radius": 0.12,
+      "epsilon_base": 12.0,
+      "frequencies": [
+        {
+          "k": 3.0,
+          "local_task_variance_proxy": 0.0007863366762444565,
+          "two_mode_response_error_sigma_median": 90.04012266013932,
+          "radiation_contrast_median": 235008173174341.38,
+          "Q_std_prior_probe": 0.5116346793449712,
+          "sigma": 0.009146410518957395
+        },
+        {
+          "k": 3.225,
+          "local_task_variance_proxy": 0.0031914238516935235,
+          "two_mode_response_error_sigma_median": 93.61834642107753,
+          "radiation_contrast_median": 68216051248641.914,
+          "Q_std_prior_probe": 0.6313707214970117,
+          "sigma": 0.008239971032625278
+        },
+        {
+          "k": 3.45,
+          "local_task_variance_proxy": 0.004381447795306102,
+          "two_mode_response_error_sigma_median": 102.77106448329172,
+          "radiation_contrast_median": 3.162343784978037,
+          "Q_std_prior_probe": 0.5814194697923681,
+          "sigma": 0.007294752951231102
+        },
+        {
+          "k": 3.675,
+          "local_task_variance_proxy": 0.005281947786331891,
+          "two_mode_response_error_sigma_median": 122.22560796365106,
+          "radiation_contrast_median": 2.8375511155844984,
+          "Q_std_prior_probe": 0.49544950117958614,
+          "sigma": 0.006651735361048077
+        },
+        {
+          "k": 3.9,
+          "local_task_variance_proxy": 0.005063704476345998,
+          "two_mode_response_error_sigma_median": 158.7157824571571,
+          "radiation_contrast_median": 2.4948875411921723,
+          "Q_std_prior_probe": 0.40501677447131756,
+          "sigma": 0.0062479066301006315
+        },
+        {
+          "k": 4.125,
+          "local_task_variance_proxy": 0.0026383696749540855,
+          "two_mode_response_error_sigma_median": 219.33015937611333,
+          "radiation_contrast_median": 2.1579578531795236,
+          "Q_std_prior_probe": 0.2996820882460488,
+          "sigma": 0.006004394961915294
+        },
+        {
+          "k": 4.35,
+          "local_task_variance_proxy": 0.0008155826221597037,
+          "two_mode_response_error_sigma_median": 313.1369697782011,
+          "radiation_contrast_median": 1.7125785810062766,
+          "Q_std_prior_probe": 0.17954668059224482,
+          "sigma": 0.005897113440555046
+        },
+        {
+          "k": 4.575,
+          "local_task_variance_proxy": 0.005479883786373832,
+          "two_mode_response_error_sigma_median": 463.3382680160255,
+          "radiation_contrast_median": 1.3810421673768913,
+          "Q_std_prior_probe": 0.207628636392637,
+          "sigma": 0.005975916858439516
+        },
+        {
+          "k": 4.8,
+          "local_task_variance_proxy": 0.003549109736638299,
+          "two_mode_response_error_sigma_median": 721.589843972176,
+          "radiation_contrast_median": 2.0248573679818254,
+          "Q_std_prior_probe": 0.484625545844783,
+          "sigma": 0.00648184161676759
+        },
+        {
+          "k": 5.025,
+          "local_task_variance_proxy": 0.0012076778104172868,
+          "two_mode_response_error_sigma_median": 1218.2718812559403,
+          "radiation_contrast_median": 3.250108078192398,
+          "Q_std_prior_probe": 0.6467985695086714,
+          "sigma": 0.007595350694984035
+        },
+        {
+          "k": 5.25,
+          "local_task_variance_proxy": 0.0005583035670171767,
+          "two_mode_response_error_sigma_median": 1201.5256775444757,
+          "radiation_contrast_median": 2.8759497795101625,
+          "Q_std_prior_probe": 0.3553513218992165,
+          "sigma": 0.008242266513784952
+        },
+        {
+          "k": 5.475,
+          "local_task_variance_proxy": 0.0005203272862968659,
+          "two_mode_response_error_sigma_median": 964.8732306794005,
+          "radiation_contrast_median": 1.600633409584437,
+          "Q_std_prior_probe": 0.26681011258336257,
+          "sigma": 0.007686762855409321
+        },
+        {
+          "k": 5.7,
+          "local_task_variance_proxy": 0.0009541701551779094,
+          "two_mode_response_error_sigma_median": 1120.0217277209013,
+          "radiation_contrast_median": 279204150496521.75,
+          "Q_std_prior_probe": 0.1729769019452959,
+          "sigma": 0.006072164237423332
+        },
+        {
+          "k": 5.925000000000001,
+          "local_task_variance_proxy": 0.0006620007501983168,
+          "two_mode_response_error_sigma_median": 1281.1561146486947,
+          "radiation_contrast_median": 214215980433805.72,
+          "Q_std_prior_probe": 0.3087013492833828,
+          "sigma": 0.004922744081660102
+        },
+        {
+          "k": 6.15,
+          "local_task_variance_proxy": 0.00030648393430218377,
+          "two_mode_response_error_sigma_median": 1017.890423795578,
+          "radiation_contrast_median": 2.5275628021501966,
+          "Q_std_prior_probe": 0.6105911468609511,
+          "sigma": 0.0042240704849441715
+        },
+        {
+          "k": 6.375,
+          "local_task_variance_proxy": 0.0015646649546473153,
+          "two_mode_response_error_sigma_median": 580.8886428222478,
+          "radiation_contrast_median": 2.8925175005245056,
+          "Q_std_prior_probe": 1.0134495101661933,
+          "sigma": 0.0039824390060294495
+        },
+        {
+          "k": 6.6,
+          "local_task_variance_proxy": 0.004884004964809346,
+          "two_mode_response_error_sigma_median": 395.3582134258183,
+          "radiation_contrast_median": 4.411208732994861,
+          "Q_std_prior_probe": 1.2180043538545073,
+          "sigma": 0.004109217568457734
+        },
+        {
+          "k": 6.825,
+          "local_task_variance_proxy": 0.0036062332399394758,
+          "two_mode_response_error_sigma_median": 306.4743651198631,
+          "radiation_contrast_median": 5.75979354871853,
+          "Q_std_prior_probe": 1.2383031858523954,
+          "sigma": 0.004215909717994097
+        },
+        {
+          "k": 7.05,
+          "local_task_variance_proxy": 0.005904233340831023,
+          "two_mode_response_error_sigma_median": 248.70005772479382,
+          "radiation_contrast_median": 5.319351635075978,
+          "Q_std_prior_probe": 1.021169141033971,
+          "sigma": 0.004325946250154915
+        },
+        {
+          "k": 7.275,
+          "local_task_variance_proxy": 0.02025367095102401,
+          "two_mode_response_error_sigma_median": 221.9781806149556,
+          "radiation_contrast_median": 3.7348244313087036,
+          "Q_std_prior_probe": 0.785570215410623,
+          "sigma": 0.0043235642114314585
+        },
+        {
+          "k": 7.5,
+          "local_task_variance_proxy": 0.01625108468181415,
+          "two_mode_response_error_sigma_median": 213.77822055882848,
+          "radiation_contrast_median": 2.6711402621223934,
+          "Q_std_prior_probe": 0.7297952972700533,
+          "sigma": 0.00422788368331261
+        },
+        {
+          "k": 7.7250000000000005,
+          "local_task_variance_proxy": 0.008296015345133322,
+          "two_mode_response_error_sigma_median": 263.701908116202,
+          "radiation_contrast_median": 174886271325713.0,
+          "Q_std_prior_probe": 0.8600991930658685,
+          "sigma": 0.0040596258518864085
+        },
+        {
+          "k": 7.95,
+          "local_task_variance_proxy": 0.0029677321001710406,
+          "two_mode_response_error_sigma_median": 526.9371761520874,
+          "radiation_contrast_median": 84927070585435.48,
+          "Q_std_prior_probe": 1.169764715956601,
+          "sigma": 0.003827330167431529
+        },
+        {
+          "k": 8.175,
+          "local_task_variance_proxy": 0.000854445656820257,
+          "two_mode_response_error_sigma_median": 1714.5068571708484,
+          "radiation_contrast_median": 327611652784672.7,
+          "Q_std_prior_probe": 1.388362654137064,
+          "sigma": 0.0038382005314727854
+        },
+        {
+          "k": 8.4,
+          "local_task_variance_proxy": 0.0007961789716504329,
+          "two_mode_response_error_sigma_median": 1368.4957243509164,
+          "radiation_contrast_median": 545931852481325.7,
+          "Q_std_prior_probe": 1.3290265139209267,
+          "sigma": 0.004084563610860018
+        },
+        {
+          "k": 8.625,
+          "local_task_variance_proxy": 0.0011417754198063267,
+          "two_mode_response_error_sigma_median": 1144.6966883972523,
+          "radiation_contrast_median": 124533979368742.61,
+          "Q_std_prior_probe": 1.126534869467492,
+          "sigma": 0.004588255249580769
+        },
+        {
+          "k": 8.850000000000001,
+          "local_task_variance_proxy": 0.0020845801275864396,
+          "two_mode_response_error_sigma_median": 875.3550231298968,
+          "radiation_contrast_median": 25574415455320.43,
+          "Q_std_prior_probe": 0.8170725918101048,
+          "sigma": 0.006360695073592973
+        },
+        {
+          "k": 9.075,
+          "local_task_variance_proxy": 0.0011439141663778974,
+          "two_mode_response_error_sigma_median": 599.2353388363796,
+          "radiation_contrast_median": 1028272601335951.9,
+          "Q_std_prior_probe": 0.6986027670921382,
+          "sigma": 0.007536071187841982
+        },
+        {
+          "k": 9.3,
+          "local_task_variance_proxy": 0.00044085883006825027,
+          "two_mode_response_error_sigma_median": 477.81869121177675,
+          "radiation_contrast_median": 682004721745457.4,
+          "Q_std_prior_probe": 0.7449405101079905,
+          "sigma": 0.007078228708364766
+        },
+        {
+          "k": 9.525,
+          "local_task_variance_proxy": 0.0003083703519892358,
+          "two_mode_response_error_sigma_median": 408.0735286249797,
+          "radiation_contrast_median": 519970278275973.06,
+          "Q_std_prior_probe": 0.768670697008828,
+          "sigma": 0.006650559771003805
+        },
+        {
+          "k": 9.75,
+          "local_task_variance_proxy": 0.0017900591199042275,
+          "two_mode_response_error_sigma_median": 305.70011536514215,
+          "radiation_contrast_median": 311865554323211.7,
+          "Q_std_prior_probe": 0.8510817428998353,
+          "sigma": 0.0061446835806896255
+        },
+        {
+          "k": 9.975000000000001,
+          "local_task_variance_proxy": 0.0049408517748642895,
+          "two_mode_response_error_sigma_median": 232.7138608233516,
+          "radiation_contrast_median": 218375660102591.25,
+          "Q_std_prior_probe": 0.9425625251090171,
+          "sigma": 0.005577485358594433
+        },
+        {
+          "k": 10.2,
+          "local_task_variance_proxy": 0.003458848134621271,
+          "two_mode_response_error_sigma_median": 209.14410068274773,
+          "radiation_contrast_median": 95723477631318.47,
+          "Q_std_prior_probe": 0.984349864967099,
+          "sigma": 0.005204969969283469
+        },
+        {
+          "k": 10.425,
+          "local_task_variance_proxy": 0.004869110863827773,
+          "two_mode_response_error_sigma_median": 211.76275289351736,
+          "radiation_contrast_median": 115375872666243.72,
+          "Q_std_prior_probe": 0.9162252590228316,
+          "sigma": 0.004831486177209272
+        },
+        {
+          "k": 10.65,
+          "local_task_variance_proxy": 0.0041543856153264435,
+          "two_mode_response_error_sigma_median": 223.3180089537709,
+          "radiation_contrast_median": 205559166133415.88,
+          "Q_std_prior_probe": 0.7701294040027751,
+          "sigma": 0.004420647082228331
+        },
+        {
+          "k": 10.875,
+          "local_task_variance_proxy": 0.006056378202770784,
+          "two_mode_response_error_sigma_median": 228.1716960019659,
+          "radiation_contrast_median": 157616263040975.2,
+          "Q_std_prior_probe": 0.9329170038428365,
+          "sigma": 0.004229853470669872
+        },
+        {
+          "k": 11.1,
+          "local_task_variance_proxy": 0.005317919725834852,
+          "two_mode_response_error_sigma_median": 216.5048542196266,
+          "radiation_contrast_median": 63127971069616.555,
+          "Q_std_prior_probe": 1.0002576452111538,
+          "sigma": 0.004162280175770451
+        },
+        {
+          "k": 11.325000000000001,
+          "local_task_variance_proxy": 0.0019422210252096317,
+          "two_mode_response_error_sigma_median": 275.7283115235657,
+          "radiation_contrast_median": 282759867414305.1,
+          "Q_std_prior_probe": 1.027698448108426,
+          "sigma": 0.00414393911376786
+        },
+        {
+          "k": 11.55,
+          "local_task_variance_proxy": 0.0011105682229263308,
+          "two_mode_response_error_sigma_median": 341.0443758481739,
+          "radiation_contrast_median": 26197743092280.336,
+          "Q_std_prior_probe": 1.0582549646813135,
+          "sigma": 0.004056488980350823
+        },
+        {
+          "k": 11.775,
+          "local_task_variance_proxy": 0.0005151785036917093,
+          "two_mode_response_error_sigma_median": 553.8094355672937,
+          "radiation_contrast_median": 824898058011201.6,
+          "Q_std_prior_probe": 0.9341736619622629,
+          "sigma": 0.00390727021859384
+        },
+        {
+          "k": 12.0,
+          "local_task_variance_proxy": 0.0012317867962124173,
+          "two_mode_response_error_sigma_median": 1545.9886094781903,
+          "radiation_contrast_median": 118673986737257.69,
+          "Q_std_prior_probe": 1.1372800059149661,
+          "sigma": 0.005843986205314649
+        }
+      ],
+      "best": {
+        "k": 7.275,
+        "local_task_variance_proxy": 0.02025367095102401,
+        "two_mode_response_error_sigma_median": 221.9781806149556,
+        "radiation_contrast_median": 3.7348244313087036,
+        "Q_std_prior_probe": 0.785570215410623,
+        "sigma": 0.0043235642114314585
+      },
+      "max_residual": 1.3024623294994025e-15,
+      "states": 24,
+      "solves": 1230
+    },
+    {
+      "name": "r0.12_e16",
+      "radius": 0.12,
+      "epsilon_base": 16.0,
+      "frequencies": [
+        {
+          "k": 3.0,
+          "local_task_variance_proxy": 0.00563636050851439,
+          "two_mode_response_error_sigma_median": 111.28367692411085,
+          "radiation_contrast_median": 6072537997513.09,
+          "Q_std_prior_probe": 0.6414492530754919,
+          "sigma": 0.0071419793418560605
+        },
+        {
+          "k": 3.225,
+          "local_task_variance_proxy": 0.006975219959778434,
+          "two_mode_response_error_sigma_median": 132.99916796076215,
+          "radiation_contrast_median": 2.6623038980879405,
+          "Q_std_prior_probe": 0.5248747313655892,
+          "sigma": 0.006391624006965511
+        },
+        {
+          "k": 3.45,
+          "local_task_variance_proxy": 0.0068698826146574915,
+          "two_mode_response_error_sigma_median": 178.8767053079928,
+          "radiation_contrast_median": 2.2711236275987248,
+          "Q_std_prior_probe": 0.4254553446700774,
+          "sigma": 0.005975238349357672
+        },
+        {
+          "k": 3.675,
+          "local_task_variance_proxy": 0.002960624011931649,
+          "two_mode_response_error_sigma_median": 267.47151297287354,
+          "radiation_contrast_median": 1.9220534575455008,
+          "Q_std_prior_probe": 0.31357190325940704,
+          "sigma": 0.005742350098522361
+        },
+        {
+          "k": 3.9,
+          "local_task_variance_proxy": 0.003359732989642668,
+          "two_mode_response_error_sigma_median": 430.86731357988754,
+          "radiation_contrast_median": 1.4468789319535202,
+          "Q_std_prior_probe": 0.18966785420161106,
+          "sigma": 0.005661839699938359
+        },
+        {
+          "k": 4.125,
+          "local_task_variance_proxy": 0.0069292569233946714,
+          "two_mode_response_error_sigma_median": 773.7969136647736,
+          "radiation_contrast_median": 1.4025923172228358,
+          "Q_std_prior_probe": 0.3550064789081566,
+          "sigma": 0.005844021882188978
+        },
+        {
+          "k": 4.35,
+          "local_task_variance_proxy": 0.002451211336548064,
+          "two_mode_response_error_sigma_median": 1698.8407372366419,
+          "radiation_contrast_median": 2.9887919406465624,
+          "Q_std_prior_probe": 0.765268942525143,
+          "sigma": 0.006744075211117397
+        },
+        {
+          "k": 4.575,
+          "local_task_variance_proxy": 0.0007969433261214216,
+          "two_mode_response_error_sigma_median": 1946.5251525356198,
+          "radiation_contrast_median": 3.3824077441598055,
+          "Q_std_prior_probe": 0.516566116705312,
+          "sigma": 0.0073834846561949595
+        },
+        {
+          "k": 4.8,
+          "local_task_variance_proxy": 0.0009285076218756816,
+          "two_mode_response_error_sigma_median": 1481.6130026319531,
+          "radiation_contrast_median": 1.7257581592997866,
+          "Q_std_prior_probe": 0.3942801918637689,
+          "sigma": 0.006728006324305127
+        },
+        {
+          "k": 5.025,
+          "local_task_variance_proxy": 0.0013924712906042424,
+          "two_mode_response_error_sigma_median": 2234.043658296097,
+          "radiation_contrast_median": 451042332963761.9,
+          "Q_std_prior_probe": 0.218808525385921,
+          "sigma": 0.004631849780818904
+        },
+        {
+          "k": 5.25,
+          "local_task_variance_proxy": 0.0005065771456606073,
+          "two_mode_response_error_sigma_median": 2190.2964427984284,
+          "radiation_contrast_median": 162283211026976.44,
+          "Q_std_prior_probe": 0.4929354950959431,
+          "sigma": 0.003878018239877555
+        },
+        {
+          "k": 5.475,
+          "local_task_variance_proxy": 0.000561552608552362,
+          "two_mode_response_error_sigma_median": 777.8446479602485,
+          "radiation_contrast_median": 5512511600042.482,
+          "Q_std_prior_probe": 0.9363039519645147,
+          "sigma": 0.00392359713566792
+        },
+        {
+          "k": 5.7,
+          "local_task_variance_proxy": 0.004844638972815464,
+          "two_mode_response_error_sigma_median": 399.15119448066065,
+          "radiation_contrast_median": 10.367420103547873,
+          "Q_std_prior_probe": 1.1851922335580802,
+          "sigma": 0.004346919347109725
+        },
+        {
+          "k": 5.925000000000001,
+          "local_task_variance_proxy": 0.005711955510400831,
+          "two_mode_response_error_sigma_median": 294.50951842540974,
+          "radiation_contrast_median": 8.44455592456553,
+          "Q_std_prior_probe": 1.225868327935478,
+          "sigma": 0.004531532684203836
+        },
+        {
+          "k": 6.15,
+          "local_task_variance_proxy": 0.004347596352210058,
+          "two_mode_response_error_sigma_median": 234.68834167780776,
+          "radiation_contrast_median": 7.109782022285085,
+          "Q_std_prior_probe": 0.9116584631784392,
+          "sigma": 0.004625751321131984
+        },
+        {
+          "k": 6.375,
+          "local_task_variance_proxy": 0.014584410502837137,
+          "two_mode_response_error_sigma_median": 207.55457501184486,
+          "radiation_contrast_median": 4.422438695359367,
+          "Q_std_prior_probe": 0.6008631115288084,
+          "sigma": 0.004507979382621617
+        },
+        {
+          "k": 6.6,
+          "local_task_variance_proxy": 0.01685937086678174,
+          "two_mode_response_error_sigma_median": 193.8418900082185,
+          "radiation_contrast_median": 37487288795873.305,
+          "Q_std_prior_probe": 0.6005365020242349,
+          "sigma": 0.004328259582227899
+        },
+        {
+          "k": 6.825,
+          "local_task_variance_proxy": 0.009619190931834257,
+          "two_mode_response_error_sigma_median": 251.50632284109022,
+          "radiation_contrast_median": 263786889670081.38,
+          "Q_std_prior_probe": 0.9138316836787029,
+          "sigma": 0.004072555970027446
+        },
+        {
+          "k": 7.05,
+          "local_task_variance_proxy": 0.0024038094542090617,
+          "two_mode_response_error_sigma_median": 667.5720775360084,
+          "radiation_contrast_median": 374529298908655.44,
+          "Q_std_prior_probe": 1.4285999202660953,
+          "sigma": 0.003960123794986208
+        },
+        {
+          "k": 7.275,
+          "local_task_variance_proxy": 0.0006580493748661503,
+          "two_mode_response_error_sigma_median": 1565.4027366735706,
+          "radiation_contrast_median": 467909090351686.0,
+          "Q_std_prior_probe": 1.4973010578018338,
+          "sigma": 0.004228578166816692
+        },
+        {
+          "k": 7.5,
+          "local_task_variance_proxy": 0.0006754313805655131,
+          "two_mode_response_error_sigma_median": 964.7309767314506,
+          "radiation_contrast_median": 204346080838273.34,
+          "Q_std_prior_probe": 1.322944149109685,
+          "sigma": 0.004541903454391441
+        },
+        {
+          "k": 7.7250000000000005,
+          "local_task_variance_proxy": 0.000961687528141772,
+          "two_mode_response_error_sigma_median": 1175.6078399923606,
+          "radiation_contrast_median": 256124351414102.75,
+          "Q_std_prior_probe": 0.9335069556526902,
+          "sigma": 0.006678800746855828
+        },
+        {
+          "k": 7.95,
+          "local_task_variance_proxy": 0.0007279826524577859,
+          "two_mode_response_error_sigma_median": 567.2274970947577,
+          "radiation_contrast_median": 510357460389764.9,
+          "Q_std_prior_probe": 0.7908450881888547,
+          "sigma": 0.00762728716261974
+        },
+        {
+          "k": 8.175,
+          "local_task_variance_proxy": 0.00029445515788785107,
+          "two_mode_response_error_sigma_median": 477.4118627304647,
+          "radiation_contrast_median": 511020345415917.9,
+          "Q_std_prior_probe": 0.8306829288765221,
+          "sigma": 0.006609878796790222
+        },
+        {
+          "k": 8.4,
+          "local_task_variance_proxy": 0.0006537915775089578,
+          "two_mode_response_error_sigma_median": 394.3779957662393,
+          "radiation_contrast_median": 682707274041026.2,
+          "Q_std_prior_probe": 0.8372253442465281,
+          "sigma": 0.005784187939490794
+        },
+        {
+          "k": 8.625,
+          "local_task_variance_proxy": 0.0038117303432918777,
+          "two_mode_response_error_sigma_median": 260.2557319823744,
+          "radiation_contrast_median": 310623393441089.7,
+          "Q_std_prior_probe": 0.9718335259296257,
+          "sigma": 0.00514996955169866
+        },
+        {
+          "k": 8.850000000000001,
+          "local_task_variance_proxy": 0.015467085010571247,
+          "two_mode_response_error_sigma_median": 220.651650246812,
+          "radiation_contrast_median": 188479703981709.56,
+          "Q_std_prior_probe": 1.0618610893977638,
+          "sigma": 0.0048873630903693305
+        },
+        {
+          "k": 9.075,
+          "local_task_variance_proxy": 0.012477964616486766,
+          "two_mode_response_error_sigma_median": 228.30963738232347,
+          "radiation_contrast_median": 256448776009336.0,
+          "Q_std_prior_probe": 1.0268483261742267,
+          "sigma": 0.004544764014671712
+        },
+        {
+          "k": 9.3,
+          "local_task_variance_proxy": 0.015473172927229951,
+          "two_mode_response_error_sigma_median": 251.84086653266493,
+          "radiation_contrast_median": 428935962464334.25,
+          "Q_std_prior_probe": 0.8488375388414566,
+          "sigma": 0.004220725680216089
+        },
+        {
+          "k": 9.525,
+          "local_task_variance_proxy": 0.010584161949776792,
+          "two_mode_response_error_sigma_median": 261.75199499436775,
+          "radiation_contrast_median": 295405499573795.94,
+          "Q_std_prior_probe": 0.8724825113970239,
+          "sigma": 0.004096676703978399
+        },
+        {
+          "k": 9.75,
+          "local_task_variance_proxy": 0.008508269687879067,
+          "two_mode_response_error_sigma_median": 492.3010003503573,
+          "radiation_contrast_median": 75533539902391.94,
+          "Q_std_prior_probe": 1.011973497674437,
+          "sigma": 0.004051274012316059
+        },
+        {
+          "k": 9.975000000000001,
+          "local_task_variance_proxy": 0.003993629073253347,
+          "two_mode_response_error_sigma_median": 500.4687097993326,
+          "radiation_contrast_median": 124151287885257.48,
+          "Q_std_prior_probe": 0.8707577323082547,
+          "sigma": 0.0039020254191515307
+        },
+        {
+          "k": 10.2,
+          "local_task_variance_proxy": 0.0004826930238102121,
+          "two_mode_response_error_sigma_median": 717.6331619727958,
+          "radiation_contrast_median": 180182119873298.9,
+          "Q_std_prior_probe": 1.0149734508219241,
+          "sigma": 0.003921663345177966
+        },
+        {
+          "k": 10.425,
+          "local_task_variance_proxy": 0.0004870161188268835,
+          "two_mode_response_error_sigma_median": 1430.1217823204297,
+          "radiation_contrast_median": 1.7113003797944932,
+          "Q_std_prior_probe": 1.0848987552358262,
+          "sigma": 0.004334182408789008
+        },
+        {
+          "k": 10.65,
+          "local_task_variance_proxy": 0.0006519548229471621,
+          "two_mode_response_error_sigma_median": 411.311169221308,
+          "radiation_contrast_median": 623985958633414.8,
+          "Q_std_prior_probe": 0.8245481850789531,
+          "sigma": 0.004707804725145203
+        },
+        {
+          "k": 10.875,
+          "local_task_variance_proxy": 0.00042064986310015975,
+          "two_mode_response_error_sigma_median": 653.2611118895544,
+          "radiation_contrast_median": 1.0193240025924317,
+          "Q_std_prior_probe": 0.6562560628974816,
+          "sigma": 0.004622079003454247
+        },
+        {
+          "k": 11.1,
+          "local_task_variance_proxy": 0.0004526577951506771,
+          "two_mode_response_error_sigma_median": 577.5922520998781,
+          "radiation_contrast_median": 1.1067006053442219,
+          "Q_std_prior_probe": 0.5710224931052321,
+          "sigma": 0.005111017702804937
+        },
+        {
+          "k": 11.325000000000001,
+          "local_task_variance_proxy": 0.000597338714650318,
+          "two_mode_response_error_sigma_median": 329.0768655221226,
+          "radiation_contrast_median": 2936442783813.92,
+          "Q_std_prior_probe": 0.6000517429502886,
+          "sigma": 0.006130293253735384
+        },
+        {
+          "k": 11.55,
+          "local_task_variance_proxy": 0.008068680422367113,
+          "two_mode_response_error_sigma_median": 241.87911111714774,
+          "radiation_contrast_median": 2.5849732182273004,
+          "Q_std_prior_probe": 0.7829865089444165,
+          "sigma": 0.006821610643516832
+        },
+        {
+          "k": 11.775,
+          "local_task_variance_proxy": 0.009047732730813676,
+          "two_mode_response_error_sigma_median": 164.27313411234974,
+          "radiation_contrast_median": 2.7566835548227138,
+          "Q_std_prior_probe": 0.874519545016074,
+          "sigma": 0.0067065657585784755
+        },
+        {
+          "k": 12.0,
+          "local_task_variance_proxy": 0.008317913813219755,
+          "two_mode_response_error_sigma_median": 134.58296970257564,
+          "radiation_contrast_median": 2.8200711814491526,
+          "Q_std_prior_probe": 0.9439923087721325,
+          "sigma": 0.00625812980620117
+        }
+      ],
+      "best": {
+        "k": 6.6,
+        "local_task_variance_proxy": 0.01685937086678174,
+        "two_mode_response_error_sigma_median": 193.8418900082185,
+        "radiation_contrast_median": 37487288795873.305,
+        "Q_std_prior_probe": 0.6005365020242349,
+        "sigma": 0.004328259582227899
+      },
+      "max_residual": 1.190651322390657e-15,
+      "states": 24,
+      "solves": 1230
+    }
+  ],
+  "candidate_order": [
+    "r0.10_e12",
+    "r0.10_e16",
+    "r0.12_e12",
+    "r0.12_e16",
+    "r0.10_e8",
+    "r0.12_e8"
+  ],
+  "seconds": 14.575958875007927,
+  "selection": "median local Q variance diagnostic, NOT posterior prevalence; refine top three candidates with discovery quadrature before freeze",
+  "test_opened": false
+}

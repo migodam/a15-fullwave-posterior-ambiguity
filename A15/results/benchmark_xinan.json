@@ -1,0 +1,28 @@
+{
+  "environment": "Windows-10-10.0.26200-SP0",
+  "matrix_size": 50,
+  "results": [
+    {
+      "name": "scipy_dense",
+      "seconds_per_solve": 6.270500001846813e-05,
+      "relative_error": 0.0
+    },
+    {
+      "name": "scipy_gmres",
+      "seconds_per_solve": 0.0003026490000047488,
+      "relative_error": 7.517147139201332e-15
+    },
+    {
+      "name": "torch_cuda_single",
+      "seconds_per_solve": 0.0008534420000069076,
+      "relative_error": 4.040826162246257e-16
+    },
+    {
+      "name": "torch_cuda_batch32",
+      "seconds_per_solve": 7.114396875067542e-05,
+      "relative_error": 5.765679382758519e-16
+    }
+  ],
+  "cached_complete_seconds": 0.00012644250000448665,
+  "selected": "minimum reliable wall-clock including assembly for actual table; no mandated GPU"
+}

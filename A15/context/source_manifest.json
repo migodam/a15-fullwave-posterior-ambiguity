@@ -1,0 +1,62 @@
+[
+  {
+    "source": "Flow Matching/A15/A15_prompt.md",
+    "snapshot": "context/00_A15_prompt.md",
+    "sha256": "91d02516897f718d3aa483ec0872f1b74349ba6343d31e39d092b72f1ad63839"
+  },
+  {
+    "source": "Flow Matching/A15/A15.md",
+    "snapshot": "context/01_A15.md",
+    "sha256": "425684ce8c561c98b0e82c413c14dd3a6903632eca58a120e43550d75972bc9f"
+  },
+  {
+    "source": "Flow Matching/A15/Q15.md",
+    "snapshot": "context/02_Q15.md",
+    "sha256": "55f7ca641cce064963566468e297e5d81545e9aa1e58e8a9fecb36ca0d8408b7"
+  },
+  {
+    "source": "Flow Matching/A14/A14.md",
+    "snapshot": "context/03_A14.md",
+    "sha256": "0b72e5af5362ccc9d6c14287cede349fd60558834920fcfc456a9a365ee6021f"
+  },
+  {
+    "source": "Flow Matching/A14/Q14.md",
+    "snapshot": "context/04_Q14.md",
+    "sha256": "c7bdeb632aabc47c7e1348e90ab61494d49c772ff0de97b6715e2369c06f66d8"
+  },
+  {
+    "source": "Flow Matching/A14/reports/A14_FINAL_REPORT.md",
+    "snapshot": "context/05_A14_FINAL_REPORT.md",
+    "sha256": "cf3319e720ffd86e1938aa7e38901bec53cca6e248f5b826d4088bdd4497683c"
+  },
+  {
+    "source": "Flow Matching/A14/reports/GATE_A.md",
+    "snapshot": "context/06_GATE_A.md",
+    "sha256": "76d84c7c8302a9f57a489c244b513f35f38059cdcd5135bc5446225cab8decb8"
+  },
+  {
+    "source": "Flow Matching/A14/src/physics.py",
+    "snapshot": "context/07_physics.py",
+    "sha256": "88df744b3c89e33705e6cfacb643bc1480e0e08dfff697c0229fec58d3cd7d2d"
+  },
+  {
+    "source": "Flow Matching/A14/src/physics_backend.py",
+    "snapshot": "context/08_physics_backend.py",
+    "sha256": "986d89e9f408be1bbcc28da6073dcd77755c5380d66b475e3bf68190c9dfbbbe"
+  },
+  {
+    "source": "Gaussian/A9/A9_THEORY_CORE.md",
+    "snapshot": "context/09_A9_THEORY_CORE.md",
+    "sha256": "47796f1e1a411b065bfbf500c6c660722fb1609bf0bdd532cf866e0f52bc77c6"
+  },
+  {
+    "source": "Gaussian/A12/PAPER_SUPPLEMENT_FINAL.md",
+    "snapshot": "context/10_PAPER_SUPPLEMENT_FINAL.md",
+    "sha256": "f4b829456f29a56a73d5e18d3e9110e4de50684adc4552e13fd8082ad1116815"
+  },
+  {
+    "source": "Gaussian/A12/A12_FINAL_RESEARCH_REPORT_ZH.md",
+    "snapshot": "context/11_A12_FINAL_RESEARCH_REPORT_ZH.md",
+    "sha256": "5689fbcd73b124396e7c55ca237be6115e45a2630e49abacbda14e22ed6dcc3d"
+  }
+]

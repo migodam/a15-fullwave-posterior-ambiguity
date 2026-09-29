@@ -1,0 +1,39 @@
+test_endpoints_map_finite (tests.test_posterior.CdfTransformTest.test_endpoints_map_finite) ... ok
+test_roundtrip_inside_box (tests.test_posterior.CdfTransformTest.test_roundtrip_inside_box) ... ok
+test_exact_integration_of_moments (tests.test_posterior.GaussLegendrePriorTest.test_exact_integration_of_moments) ... ok
+test_nodes_positive_normalised_weights (tests.test_posterior.GaussLegendrePriorTest.test_nodes_positive_normalised_weights) ... ok
+test_analytic_gaussian_section (tests.test_posterior.GridPosteriorTest.test_analytic_gaussian_section) ... ok
+test_bimodal_branch_weights_external_labels (tests.test_posterior.GridPosteriorTest.test_bimodal_branch_weights_external_labels) ... ok
+test_posterior_summary_keys (tests.test_posterior.GridPosteriorTest.test_posterior_summary_keys) ... ok
+test_predictive_moments (tests.test_posterior.GridPosteriorTest.test_predictive_moments) ... ok
+test_prior_cdf_sanity (tests.test_posterior.GridPosteriorTest.test_prior_cdf_sanity) ... ok
+test_theta_covariance_uniform (tests.test_posterior.GridPosteriorTest.test_theta_covariance_uniform) ... ok
+test_weighted_quantiles_discrete_exact (tests.test_posterior.GridPosteriorTest.test_weighted_quantiles_discrete_exact) ... ok
+test_zero_information_is_prior (tests.test_posterior.GridPosteriorTest.test_zero_information_is_prior) ... ok
+test_real_imag_gaussian_matches_manual (tests.test_posterior.LikelihoodTest.test_real_imag_gaussian_matches_manual) ... ok
+test_sigma_shapes_and_zero_at_observation (tests.test_posterior.LikelihoodTest.test_sigma_shapes_and_zero_at_observation) ... ok
+test_conditional_ess_matches_post_ess (tests.test_posterior.NormalizeRejectTest.test_conditional_ess_matches_post_ess) ... ok
+test_drops_only_when_negligible (tests.test_posterior.NormalizeRejectTest.test_drops_only_when_negligible) ... ok
+test_ess_uniform_and_concentrated (tests.test_posterior.NormalizeRejectTest.test_ess_uniform_and_concentrated) ... ok
+test_rejects_mass_above_tol_when_not_strict (tests.test_posterior.NormalizeRejectTest.test_rejects_mass_above_tol_when_not_strict) ... ok
+test_rejects_nonfinite_strict (tests.test_posterior.NormalizeRejectTest.test_rejects_nonfinite_strict) ... ok
+test_systematic_resample_frequency (tests.test_posterior.NormalizeRejectTest.test_systematic_resample_frequency) ... ok
+test_zero_prior_weight_is_missing_node (tests.test_posterior.NormalizeRejectTest.test_zero_prior_weight_is_missing_node) ... ok
+test_compare_identical_and_perturbed (tests.test_posterior.ReferenceToleranceTest.test_compare_identical_and_perturbed) ... ok
+test_convergence_metrics (tests.test_posterior.ReferenceToleranceTest.test_convergence_metrics) ... ok
+test_loads_discovery_tolerances (tests.test_posterior.ReferenceToleranceTest.test_loads_discovery_tolerances) ... ok
+test_variance_abs_tolerance_path (tests.test_posterior.ReferenceToleranceTest.test_variance_abs_tolerance_path) ... ok
+test_paired_bootstrap_identical_methods_zero (tests.test_posterior.RiskBootstrapTest.test_paired_bootstrap_identical_methods_zero) ... ok
+test_paired_bootstrap_reduction_and_ci (tests.test_posterior.RiskBootstrapTest.test_paired_bootstrap_reduction_and_ci) ... ok
+test_population_risk_and_prevalence (tests.test_posterior.RiskBootstrapTest.test_population_risk_and_prevalence) ... ok
+test_analytic_gaussian (tests.test_posterior.SmcTest.test_analytic_gaussian) ... ok
+test_bimodal_1d_embedded_3d_branch_weights (tests.test_posterior.SmcTest.test_bimodal_1d_embedded_3d_branch_weights) ... ok
+test_diagnostics_complete (tests.test_posterior.SmcTest.test_diagnostics_complete) ... ok
+test_rejects_nonfinite_likelihood (tests.test_posterior.SmcTest.test_rejects_nonfinite_likelihood) ... ok
+test_wrapper_matches_function (tests.test_posterior.SmcTest.test_wrapper_matches_function) ... ok
+test_zero_information_single_step (tests.test_posterior.SmcTest.test_zero_information_single_step) ... ok
+
+----------------------------------------------------------------------
+Ran 34 tests in 0.051s
+
+OK
